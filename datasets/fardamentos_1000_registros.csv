@@ -1,0 +1,1001 @@
+Data,Produto,Categoria,Cliente,Quantidade Vendida,Estoque Atual,Preço Unitário,Localização
+2025-01-01,Camisa Corporativa,Corporativo,Colégio Alfa,41,402,99.9,Ilhéus
+2025-01-02,Camisa Corporativa,Corporativo,Colégio Beta,36,366,99.9,Lauro de Freitas
+2025-01-03,Jaleco Hospitalar,Hospitalar,Empresa Beta,19,481,129.9,Jequié
+2025-01-04,Macacão Industrial,Industrial,Indústria Y,21,193,149.9,Vitória da Conquista
+2025-01-05,Macacão Industrial,Industrial,Indústria Y,48,145,149.9,Camaçari
+2025-01-06,Uniforme Escolar,Escolar,Hospital Vida,20,226,89.9,Salvador
+2025-01-07,Uniforme Escolar,Escolar,Colégio Beta,16,210,89.9,Lauro de Freitas
+2025-01-08,Jaleco Hospitalar,Hospitalar,Empresa Beta,40,441,129.9,Lauro de Freitas
+2025-01-09,Camisa Corporativa,Corporativo,Hospital Saúde+,9,357,99.9,Camaçari
+2025-01-10,Uniforme Escolar,Escolar,Empresa Gama,7,203,89.9,Itabuna
+2025-01-11,Macacão Industrial,Industrial,Hospital Saúde+,38,107,149.9,Vitória da Conquista
+2025-01-12,Macacão Industrial,Industrial,Indústria Y,31,76,149.9,Lauro de Freitas
+2025-01-13,Uniforme Escolar,Escolar,Hospital Vida,31,172,89.9,Vitória da Conquista
+2025-01-14,Uniforme Escolar,Escolar,Colégio Alfa,35,137,89.9,Salvador
+2025-01-15,Macacão Industrial,Industrial,Colégio Beta,30,46,149.9,Lauro de Freitas
+2025-01-16,Jaleco Hospitalar,Hospitalar,Colégio Beta,49,392,129.9,Salvador
+2025-01-17,Camisa Corporativa,Corporativo,Indústria Y,39,318,99.9,Ilhéus
+2025-01-18,Jaleco Hospitalar,Hospitalar,Colégio Delta,26,366,129.9,Jequié
+2025-01-19,Macacão Industrial,Industrial,Colégio Alfa,35,11,149.9,Ilhéus
+2025-01-20,Uniforme Escolar,Escolar,Colégio Alfa,49,88,89.9,Camaçari
+2025-01-21,Camisa Corporativa,Corporativo,Hospital Vida,39,279,99.9,Camaçari
+2025-01-22,Camisa Corporativa,Corporativo,Empresa Gama,33,246,99.9,Camaçari
+2025-01-23,Camisa Corporativa,Corporativo,Hospital Vida,7,239,99.9,Camaçari
+2025-01-24,Macacão Industrial,Industrial,Empresa Gama,18,419,149.9,Salvador
+2025-01-25,Jaleco Hospitalar,Hospitalar,Hospital Vida,29,337,129.9,Itabuna
+2025-01-26,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,20,317,129.9,Vitória da Conquista
+2025-01-27,Camisa Corporativa,Corporativo,Colégio Alfa,43,196,99.9,Ilhéus
+2025-01-28,Camisa Corporativa,Corporativo,Hospital Vida,13,183,99.9,Vitória da Conquista
+2025-01-29,Macacão Industrial,Industrial,Colégio Alfa,47,372,149.9,Camaçari
+2025-01-30,Camisa Corporativa,Corporativo,Empresa Beta,33,150,99.9,Salvador
+2025-01-31,Macacão Industrial,Industrial,Empresa Gama,19,353,149.9,Camaçari
+2025-02-01,Macacão Industrial,Industrial,Empresa Gama,17,336,149.9,Feira de Santana
+2025-02-02,Uniforme Escolar,Escolar,Colégio Alfa,26,62,89.9,Itabuna
+2025-02-03,Uniforme Escolar,Escolar,Colégio Beta,36,26,89.9,Ilhéus
+2025-02-04,Uniforme Escolar,Escolar,Hospital Vida,44,470,89.9,Jequié
+2025-02-05,Uniforme Escolar,Escolar,Colégio Alfa,21,449,89.9,Jequié
+2025-02-06,Camisa Corporativa,Corporativo,Empresa Beta,26,124,99.9,Lauro de Freitas
+2025-02-07,Macacão Industrial,Industrial,Hospital Vida,16,320,149.9,Camaçari
+2025-02-08,Jaleco Hospitalar,Hospitalar,Empresa Beta,42,275,129.9,Lauro de Freitas
+2025-02-09,Macacão Industrial,Industrial,Indústria Y,9,311,149.9,Jequié
+2025-02-10,Uniforme Escolar,Escolar,Empresa Beta,17,432,89.9,Feira de Santana
+2025-02-11,Macacão Industrial,Industrial,Colégio Beta,22,289,149.9,Feira de Santana
+2025-02-12,Uniforme Escolar,Escolar,Indústria X,10,422,89.9,Jequié
+2025-02-13,Uniforme Escolar,Escolar,Colégio Delta,24,398,89.9,Itabuna
+2025-02-14,Uniforme Escolar,Escolar,Hospital Saúde+,18,380,89.9,Jequié
+2025-02-15,Camisa Corporativa,Corporativo,Colégio Beta,34,90,99.9,Ilhéus
+2025-02-16,Jaleco Hospitalar,Hospitalar,Indústria X,48,227,129.9,Ilhéus
+2025-02-17,Jaleco Hospitalar,Hospitalar,Empresa Gama,25,202,129.9,Camaçari
+2025-02-18,Macacão Industrial,Industrial,Indústria Y,44,245,149.9,Jequié
+2025-02-19,Uniforme Escolar,Escolar,Empresa Beta,49,331,89.9,Ilhéus
+2025-02-20,Camisa Corporativa,Corporativo,Colégio Beta,18,72,99.9,Feira de Santana
+2025-02-21,Camisa Corporativa,Corporativo,Indústria X,35,37,99.9,Salvador
+2025-02-22,Jaleco Hospitalar,Hospitalar,Hospital Vida,42,160,129.9,Ilhéus
+2025-02-23,Macacão Industrial,Industrial,Indústria Y,36,209,149.9,Feira de Santana
+2025-02-24,Uniforme Escolar,Escolar,Colégio Beta,33,298,89.9,Salvador
+2025-02-25,Macacão Industrial,Industrial,Colégio Alfa,28,181,149.9,Ilhéus
+2025-02-26,Camisa Corporativa,Corporativo,Indústria X,29,8,99.9,Camaçari
+2025-02-27,Macacão Industrial,Industrial,Colégio Delta,30,151,149.9,Camaçari
+2025-02-28,Macacão Industrial,Industrial,Colégio Delta,35,116,149.9,Lauro de Freitas
+2025-03-01,Uniforme Escolar,Escolar,Colégio Delta,45,253,89.9,Camaçari
+2025-03-02,Uniforme Escolar,Escolar,Indústria Y,36,217,89.9,Itabuna
+2025-03-03,Uniforme Escolar,Escolar,Empresa Beta,6,211,89.9,Vitória da Conquista
+2025-03-04,Uniforme Escolar,Escolar,Colégio Alfa,29,182,89.9,Itabuna
+2025-03-05,Jaleco Hospitalar,Hospitalar,Indústria Y,24,136,129.9,Lauro de Freitas
+2025-03-06,Uniforme Escolar,Escolar,Colégio Alfa,43,139,89.9,Lauro de Freitas
+2025-03-07,Macacão Industrial,Industrial,Colégio Delta,6,110,149.9,Ilhéus
+2025-03-08,Macacão Industrial,Industrial,Indústria Y,9,101,149.9,Feira de Santana
+2025-03-09,Jaleco Hospitalar,Hospitalar,Empresa Beta,5,131,129.9,Ilhéus
+2025-03-10,Jaleco Hospitalar,Hospitalar,Empresa Gama,24,107,129.9,Ilhéus
+2025-03-11,Macacão Industrial,Industrial,Empresa Gama,17,84,149.9,Itabuna
+2025-03-12,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,20,87,129.9,Itabuna
+2025-03-13,Uniforme Escolar,Escolar,Empresa Gama,37,102,89.9,Jequié
+2025-03-14,Jaleco Hospitalar,Hospitalar,Colégio Beta,22,65,129.9,Jequié
+2025-03-15,Camisa Corporativa,Corporativo,Hospital Saúde+,43,342,99.9,Camaçari
+2025-03-16,Macacão Industrial,Industrial,Colégio Delta,27,57,149.9,Itabuna
+2025-03-17,Macacão Industrial,Industrial,Hospital Saúde+,11,46,149.9,Jequié
+2025-03-18,Jaleco Hospitalar,Hospitalar,Empresa Beta,23,42,129.9,Jequié
+2025-03-19,Macacão Industrial,Industrial,Hospital Saúde+,16,30,149.9,Vitória da Conquista
+2025-03-20,Jaleco Hospitalar,Hospitalar,Empresa Gama,48,473,129.9,Lauro de Freitas
+2025-03-21,Macacão Industrial,Industrial,Hospital Vida,14,16,149.9,Jequié
+2025-03-22,Uniforme Escolar,Escolar,Indústria X,40,62,89.9,Jequié
+2025-03-23,Uniforme Escolar,Escolar,Empresa Gama,21,41,89.9,Camaçari
+2025-03-24,Camisa Corporativa,Corporativo,Colégio Delta,38,304,99.9,Ilhéus
+2025-03-25,Camisa Corporativa,Corporativo,Colégio Delta,29,275,99.9,Itabuna
+2025-03-26,Camisa Corporativa,Corporativo,Hospital Saúde+,33,242,99.9,Ilhéus
+2025-03-27,Uniforme Escolar,Escolar,Indústria Y,10,31,89.9,Ilhéus
+2025-03-28,Jaleco Hospitalar,Hospitalar,Indústria X,21,452,129.9,Feira de Santana
+2025-03-29,Macacão Industrial,Industrial,Empresa Beta,35,369,149.9,Jequié
+2025-03-30,Macacão Industrial,Industrial,Indústria X,25,344,149.9,Itabuna
+2025-03-31,Jaleco Hospitalar,Hospitalar,Empresa Gama,48,404,129.9,Ilhéus
+2025-04-01,Uniforme Escolar,Escolar,Indústria Y,20,11,89.9,Itabuna
+2025-04-02,Macacão Industrial,Industrial,Indústria Y,39,305,149.9,Ilhéus
+2025-04-03,Camisa Corporativa,Corporativo,Colégio Alfa,48,194,99.9,Salvador
+2025-04-04,Jaleco Hospitalar,Hospitalar,Indústria X,31,373,129.9,Salvador
+2025-04-05,Camisa Corporativa,Corporativo,Indústria X,24,170,99.9,Ilhéus
+2025-04-06,Uniforme Escolar,Escolar,Colégio Beta,12,317,89.9,Itabuna
+2025-04-07,Uniforme Escolar,Escolar,Indústria Y,9,308,89.9,Ilhéus
+2025-04-08,Camisa Corporativa,Corporativo,Hospital Saúde+,44,126,99.9,Salvador
+2025-04-09,Macacão Industrial,Industrial,Colégio Alfa,35,270,149.9,Jequié
+2025-04-10,Macacão Industrial,Industrial,Empresa Gama,37,233,149.9,Lauro de Freitas
+2025-04-11,Camisa Corporativa,Corporativo,Empresa Gama,46,80,99.9,Lauro de Freitas
+2025-04-12,Camisa Corporativa,Corporativo,Empresa Gama,19,61,99.9,Ilhéus
+2025-04-13,Camisa Corporativa,Corporativo,Colégio Delta,50,11,99.9,Feira de Santana
+2025-04-14,Uniforme Escolar,Escolar,Empresa Beta,16,292,89.9,Camaçari
+2025-04-15,Uniforme Escolar,Escolar,Indústria Y,6,286,89.9,Ilhéus
+2025-04-16,Macacão Industrial,Industrial,Indústria X,17,216,149.9,Itabuna
+2025-04-17,Uniforme Escolar,Escolar,Indústria X,32,254,89.9,Feira de Santana
+2025-04-18,Camisa Corporativa,Corporativo,Empresa Beta,41,442,99.9,Itabuna
+2025-04-19,Jaleco Hospitalar,Hospitalar,Hospital Vida,42,331,129.9,Jequié
+2025-04-20,Uniforme Escolar,Escolar,Empresa Beta,20,234,89.9,Salvador
+2025-04-21,Uniforme Escolar,Escolar,Hospital Saúde+,21,213,89.9,Camaçari
+2025-04-22,Uniforme Escolar,Escolar,Hospital Saúde+,14,199,89.9,Jequié
+2025-04-23,Uniforme Escolar,Escolar,Colégio Beta,15,184,89.9,Vitória da Conquista
+2025-04-24,Jaleco Hospitalar,Hospitalar,Colégio Delta,46,285,129.9,Itabuna
+2025-04-25,Jaleco Hospitalar,Hospitalar,Empresa Gama,29,256,129.9,Itabuna
+2025-04-26,Uniforme Escolar,Escolar,Hospital Saúde+,47,137,89.9,Lauro de Freitas
+2025-04-27,Macacão Industrial,Industrial,Colégio Delta,36,180,149.9,Lauro de Freitas
+2025-04-28,Macacão Industrial,Industrial,Empresa Beta,50,130,149.9,Feira de Santana
+2025-04-29,Jaleco Hospitalar,Hospitalar,Indústria Y,15,241,129.9,Salvador
+2025-04-30,Jaleco Hospitalar,Hospitalar,Colégio Alfa,41,200,129.9,Camaçari
+2025-05-01,Macacão Industrial,Industrial,Hospital Vida,20,110,149.9,Lauro de Freitas
+2025-05-02,Uniforme Escolar,Escolar,Empresa Beta,40,97,89.9,Feira de Santana
+2025-05-03,Jaleco Hospitalar,Hospitalar,Colégio Beta,12,188,129.9,Salvador
+2025-05-04,Jaleco Hospitalar,Hospitalar,Colégio Alfa,49,139,129.9,Jequié
+2025-05-05,Uniforme Escolar,Escolar,Hospital Saúde+,12,85,89.9,Camaçari
+2025-05-06,Macacão Industrial,Industrial,Colégio Alfa,42,68,149.9,Vitória da Conquista
+2025-05-07,Jaleco Hospitalar,Hospitalar,Empresa Beta,45,94,129.9,Feira de Santana
+2025-05-08,Camisa Corporativa,Corporativo,Empresa Beta,41,401,99.9,Lauro de Freitas
+2025-05-09,Macacão Industrial,Industrial,Hospital Vida,44,24,149.9,Feira de Santana
+2025-05-10,Macacão Industrial,Industrial,Indústria X,36,363,149.9,Jequié
+2025-05-11,Uniforme Escolar,Escolar,Colégio Beta,9,76,89.9,Camaçari
+2025-05-12,Camisa Corporativa,Corporativo,Indústria X,21,380,99.9,Camaçari
+2025-05-13,Camisa Corporativa,Corporativo,Empresa Gama,9,371,99.9,Vitória da Conquista
+2025-05-14,Uniforme Escolar,Escolar,Hospital Saúde+,19,57,89.9,Jequié
+2025-05-15,Camisa Corporativa,Corporativo,Hospital Vida,16,355,99.9,Camaçari
+2025-05-16,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,37,57,129.9,Feira de Santana
+2025-05-17,Uniforme Escolar,Escolar,Indústria X,21,36,89.9,Salvador
+2025-05-18,Uniforme Escolar,Escolar,Empresa Beta,7,29,89.9,Jequié
+2025-05-19,Camisa Corporativa,Corporativo,Colégio Beta,21,334,99.9,Itabuna
+2025-05-20,Jaleco Hospitalar,Hospitalar,Colégio Alfa,29,28,129.9,Itabuna
+2025-05-21,Jaleco Hospitalar,Hospitalar,Empresa Beta,23,5,129.9,Jequié
+2025-05-22,Camisa Corporativa,Corporativo,Colégio Beta,20,314,99.9,Feira de Santana
+2025-05-23,Camisa Corporativa,Corporativo,Indústria X,16,298,99.9,Ilhéus
+2025-05-24,Jaleco Hospitalar,Hospitalar,Colégio Beta,6,266,129.9,Ilhéus
+2025-05-25,Uniforme Escolar,Escolar,Hospital Vida,9,20,89.9,Feira de Santana
+2025-05-26,Uniforme Escolar,Escolar,Colégio Delta,45,472,89.9,Lauro de Freitas
+2025-05-27,Jaleco Hospitalar,Hospitalar,Hospital Vida,50,216,129.9,Camaçari
+2025-05-28,Camisa Corporativa,Corporativo,Indústria Y,31,267,99.9,Itabuna
+2025-05-29,Jaleco Hospitalar,Hospitalar,Indústria Y,23,193,129.9,Feira de Santana
+2025-05-30,Macacão Industrial,Industrial,Colégio Beta,25,338,149.9,Vitória da Conquista
+2025-05-31,Uniforme Escolar,Escolar,Indústria Y,5,467,89.9,Itabuna
+2025-06-01,Uniforme Escolar,Escolar,Hospital Vida,42,425,89.9,Ilhéus
+2025-06-02,Camisa Corporativa,Corporativo,Empresa Beta,15,252,99.9,Vitória da Conquista
+2025-06-03,Macacão Industrial,Industrial,Empresa Gama,13,325,149.9,Itabuna
+2025-06-04,Camisa Corporativa,Corporativo,Colégio Alfa,18,234,99.9,Jequié
+2025-06-05,Camisa Corporativa,Corporativo,Hospital Saúde+,40,194,99.9,Feira de Santana
+2025-06-06,Uniforme Escolar,Escolar,Colégio Alfa,13,412,89.9,Vitória da Conquista
+2025-06-07,Macacão Industrial,Industrial,Hospital Vida,6,319,149.9,Vitória da Conquista
+2025-06-08,Jaleco Hospitalar,Hospitalar,Hospital Vida,48,145,129.9,Feira de Santana
+2025-06-09,Camisa Corporativa,Corporativo,Indústria X,21,173,99.9,Jequié
+2025-06-10,Camisa Corporativa,Corporativo,Empresa Gama,26,147,99.9,Ilhéus
+2025-06-11,Camisa Corporativa,Corporativo,Indústria Y,5,142,99.9,Salvador
+2025-06-12,Camisa Corporativa,Corporativo,Indústria X,9,133,99.9,Jequié
+2025-06-13,Camisa Corporativa,Corporativo,Colégio Alfa,17,116,99.9,Camaçari
+2025-06-14,Jaleco Hospitalar,Hospitalar,Colégio Alfa,43,102,129.9,Jequié
+2025-06-15,Macacão Industrial,Industrial,Colégio Delta,29,290,149.9,Salvador
+2025-06-16,Jaleco Hospitalar,Hospitalar,Hospital Vida,19,83,129.9,Jequié
+2025-06-17,Uniforme Escolar,Escolar,Hospital Saúde+,21,391,89.9,Salvador
+2025-06-18,Macacão Industrial,Industrial,Colégio Delta,20,270,149.9,Itabuna
+2025-06-19,Camisa Corporativa,Corporativo,Empresa Beta,30,86,99.9,Lauro de Freitas
+2025-06-20,Jaleco Hospitalar,Hospitalar,Empresa Gama,5,78,129.9,Lauro de Freitas
+2025-06-21,Macacão Industrial,Industrial,Empresa Gama,33,237,149.9,Lauro de Freitas
+2025-06-22,Uniforme Escolar,Escolar,Empresa Gama,7,384,89.9,Salvador
+2025-06-23,Uniforme Escolar,Escolar,Colégio Beta,5,379,89.9,Salvador
+2025-06-24,Jaleco Hospitalar,Hospitalar,Colégio Alfa,25,53,129.9,Camaçari
+2025-06-25,Uniforme Escolar,Escolar,Hospital Vida,35,344,89.9,Ilhéus
+2025-06-26,Uniforme Escolar,Escolar,Empresa Gama,19,325,89.9,Ilhéus
+2025-06-27,Jaleco Hospitalar,Hospitalar,Colégio Delta,50,3,129.9,Lauro de Freitas
+2025-06-28,Camisa Corporativa,Corporativo,Colégio Beta,24,62,99.9,Lauro de Freitas
+2025-06-29,Camisa Corporativa,Corporativo,Colégio Beta,36,26,99.9,Itabuna
+2025-06-30,Jaleco Hospitalar,Hospitalar,Colégio Delta,47,246,129.9,Itabuna
+2025-07-01,Macacão Industrial,Industrial,Hospital Saúde+,50,187,149.9,Ilhéus
+2025-07-02,Macacão Industrial,Industrial,Colégio Delta,49,138,149.9,Ilhéus
+2025-07-03,Camisa Corporativa,Corporativo,Colégio Beta,49,296,99.9,Camaçari
+2025-07-04,Jaleco Hospitalar,Hospitalar,Colégio Alfa,30,216,129.9,Vitória da Conquista
+2025-07-05,Camisa Corporativa,Corporativo,Colégio Beta,17,279,99.9,Ilhéus
+2025-07-06,Jaleco Hospitalar,Hospitalar,Indústria X,40,176,129.9,Lauro de Freitas
+2025-07-07,Uniforme Escolar,Escolar,Empresa Beta,18,307,89.9,Salvador
+2025-07-08,Macacão Industrial,Industrial,Colégio Alfa,10,128,149.9,Feira de Santana
+2025-07-09,Camisa Corporativa,Corporativo,Colégio Beta,18,261,99.9,Camaçari
+2025-07-10,Uniforme Escolar,Escolar,Indústria Y,14,293,89.9,Camaçari
+2025-07-11,Uniforme Escolar,Escolar,Indústria X,14,279,89.9,Vitória da Conquista
+2025-07-12,Jaleco Hospitalar,Hospitalar,Colégio Beta,35,141,129.9,Vitória da Conquista
+2025-07-13,Jaleco Hospitalar,Hospitalar,Indústria Y,12,129,129.9,Vitória da Conquista
+2025-07-14,Macacão Industrial,Industrial,Empresa Gama,10,118,149.9,Lauro de Freitas
+2025-07-15,Uniforme Escolar,Escolar,Colégio Beta,29,250,89.9,Lauro de Freitas
+2025-07-16,Macacão Industrial,Industrial,Empresa Gama,27,91,149.9,Jequié
+2025-07-17,Camisa Corporativa,Corporativo,Colégio Alfa,48,213,99.9,Feira de Santana
+2025-07-18,Jaleco Hospitalar,Hospitalar,Indústria Y,27,102,129.9,Vitória da Conquista
+2025-07-19,Camisa Corporativa,Corporativo,Hospital Saúde+,25,188,99.9,Itabuna
+2025-07-20,Jaleco Hospitalar,Hospitalar,Hospital Vida,9,93,129.9,Camaçari
+2025-07-21,Jaleco Hospitalar,Hospitalar,Empresa Gama,15,78,129.9,Salvador
+2025-07-22,Uniforme Escolar,Escolar,Indústria Y,17,233,89.9,Lauro de Freitas
+2025-07-23,Macacão Industrial,Industrial,Hospital Saúde+,19,72,149.9,Jequié
+2025-07-24,Uniforme Escolar,Escolar,Indústria Y,43,190,89.9,Camaçari
+2025-07-25,Uniforme Escolar,Escolar,Colégio Alfa,45,145,89.9,Lauro de Freitas
+2025-07-26,Camisa Corporativa,Corporativo,Hospital Vida,43,145,99.9,Vitória da Conquista
+2025-07-27,Camisa Corporativa,Corporativo,Hospital Saúde+,23,122,99.9,Vitória da Conquista
+2025-07-28,Jaleco Hospitalar,Hospitalar,Colégio Alfa,44,34,129.9,Jequié
+2025-07-29,Macacão Industrial,Industrial,Empresa Beta,21,51,149.9,Camaçari
+2025-07-30,Camisa Corporativa,Corporativo,Empresa Gama,16,106,99.9,Camaçari
+2025-07-31,Uniforme Escolar,Escolar,Colégio Alfa,33,112,89.9,Itabuna
+2025-08-01,Macacão Industrial,Industrial,Indústria X,49,2,149.9,Feira de Santana
+2025-08-02,Uniforme Escolar,Escolar,Empresa Beta,9,103,89.9,Jequié
+2025-08-03,Jaleco Hospitalar,Hospitalar,Indústria X,47,223,129.9,Vitória da Conquista
+2025-08-04,Uniforme Escolar,Escolar,Hospital Vida,6,97,89.9,Lauro de Freitas
+2025-08-05,Camisa Corporativa,Corporativo,Empresa Gama,28,78,99.9,Feira de Santana
+2025-08-06,Macacão Industrial,Industrial,Colégio Alfa,30,407,149.9,Lauro de Freitas
+2025-08-07,Macacão Industrial,Industrial,Indústria Y,7,400,149.9,Camaçari
+2025-08-08,Jaleco Hospitalar,Hospitalar,Colégio Beta,29,194,129.9,Ilhéus
+2025-08-09,Jaleco Hospitalar,Hospitalar,Colégio Alfa,49,145,129.9,Lauro de Freitas
+2025-08-10,Jaleco Hospitalar,Hospitalar,Colégio Alfa,47,98,129.9,Salvador
+2025-08-11,Uniforme Escolar,Escolar,Colégio Beta,32,65,89.9,Camaçari
+2025-08-12,Jaleco Hospitalar,Hospitalar,Colégio Delta,14,84,129.9,Ilhéus
+2025-08-13,Camisa Corporativa,Corporativo,Hospital Saúde+,48,30,99.9,Ilhéus
+2025-08-14,Uniforme Escolar,Escolar,Indústria X,39,26,89.9,Itabuna
+2025-08-15,Camisa Corporativa,Corporativo,Hospital Saúde+,29,1,99.9,Salvador
+2025-08-16,Jaleco Hospitalar,Hospitalar,Hospital Vida,8,76,129.9,Jequié
+2025-08-17,Uniforme Escolar,Escolar,Indústria Y,5,21,89.9,Lauro de Freitas
+2025-08-18,Uniforme Escolar,Escolar,Colégio Alfa,49,240,89.9,Lauro de Freitas
+2025-08-19,Jaleco Hospitalar,Hospitalar,Empresa Beta,21,55,129.9,Vitória da Conquista
+2025-08-20,Camisa Corporativa,Corporativo,Hospital Saúde+,23,463,99.9,Salvador
+2025-08-21,Camisa Corporativa,Corporativo,Hospital Vida,36,427,99.9,Camaçari
+2025-08-22,Jaleco Hospitalar,Hospitalar,Empresa Beta,9,46,129.9,Salvador
+2025-08-23,Jaleco Hospitalar,Hospitalar,Indústria X,20,26,129.9,Ilhéus
+2025-08-24,Macacão Industrial,Industrial,Colégio Alfa,45,355,149.9,Feira de Santana
+2025-08-25,Camisa Corporativa,Corporativo,Indústria X,8,419,99.9,Feira de Santana
+2025-08-26,Macacão Industrial,Industrial,Empresa Beta,41,314,149.9,Ilhéus
+2025-08-27,Uniforme Escolar,Escolar,Indústria X,21,219,89.9,Itabuna
+2025-08-28,Camisa Corporativa,Corporativo,Empresa Gama,49,370,99.9,Feira de Santana
+2025-08-29,Uniforme Escolar,Escolar,Colégio Delta,45,174,89.9,Feira de Santana
+2025-08-30,Camisa Corporativa,Corporativo,Indústria Y,37,333,99.9,Feira de Santana
+2025-08-31,Macacão Industrial,Industrial,Indústria X,24,290,149.9,Feira de Santana
+2025-09-01,Camisa Corporativa,Corporativo,Empresa Gama,22,311,99.9,Vitória da Conquista
+2025-09-02,Camisa Corporativa,Corporativo,Empresa Gama,43,268,99.9,Salvador
+2025-09-03,Camisa Corporativa,Corporativo,Hospital Vida,19,249,99.9,Salvador
+2025-09-04,Jaleco Hospitalar,Hospitalar,Empresa Beta,42,380,129.9,Ilhéus
+2025-09-05,Camisa Corporativa,Corporativo,Empresa Beta,39,210,99.9,Vitória da Conquista
+2025-09-06,Camisa Corporativa,Corporativo,Indústria X,14,196,99.9,Camaçari
+2025-09-07,Camisa Corporativa,Corporativo,Colégio Delta,24,172,99.9,Salvador
+2025-09-08,Camisa Corporativa,Corporativo,Colégio Beta,8,164,99.9,Lauro de Freitas
+2025-09-09,Uniforme Escolar,Escolar,Empresa Beta,23,151,89.9,Jequié
+2025-09-10,Uniforme Escolar,Escolar,Colégio Beta,17,134,89.9,Vitória da Conquista
+2025-09-11,Macacão Industrial,Industrial,Colégio Beta,20,270,149.9,Jequié
+2025-09-12,Jaleco Hospitalar,Hospitalar,Empresa Beta,23,357,129.9,Feira de Santana
+2025-09-13,Camisa Corporativa,Corporativo,Colégio Alfa,13,151,99.9,Feira de Santana
+2025-09-14,Camisa Corporativa,Corporativo,Hospital Saúde+,20,131,99.9,Itabuna
+2025-09-15,Macacão Industrial,Industrial,Indústria Y,46,224,149.9,Salvador
+2025-09-16,Jaleco Hospitalar,Hospitalar,Indústria Y,18,339,129.9,Itabuna
+2025-09-17,Uniforme Escolar,Escolar,Indústria Y,44,90,89.9,Itabuna
+2025-09-18,Camisa Corporativa,Corporativo,Colégio Beta,5,126,99.9,Ilhéus
+2025-09-19,Uniforme Escolar,Escolar,Empresa Beta,22,68,89.9,Camaçari
+2025-09-20,Jaleco Hospitalar,Hospitalar,Empresa Beta,23,316,129.9,Jequié
+2025-09-21,Macacão Industrial,Industrial,Hospital Saúde+,31,193,149.9,Feira de Santana
+2025-09-22,Jaleco Hospitalar,Hospitalar,Colégio Beta,33,283,129.9,Salvador
+2025-09-23,Uniforme Escolar,Escolar,Colégio Alfa,23,45,89.9,Itabuna
+2025-09-24,Uniforme Escolar,Escolar,Empresa Beta,30,15,89.9,Jequié
+2025-09-25,Macacão Industrial,Industrial,Hospital Saúde+,5,188,149.9,Feira de Santana
+2025-09-26,Uniforme Escolar,Escolar,Colégio Beta,24,334,89.9,Vitória da Conquista
+2025-09-27,Jaleco Hospitalar,Hospitalar,Colégio Alfa,12,271,129.9,Vitória da Conquista
+2025-09-28,Camisa Corporativa,Corporativo,Empresa Gama,19,107,99.9,Camaçari
+2025-09-29,Uniforme Escolar,Escolar,Colégio Beta,10,324,89.9,Lauro de Freitas
+2025-09-30,Jaleco Hospitalar,Hospitalar,Hospital Vida,27,244,129.9,Vitória da Conquista
+2025-10-01,Macacão Industrial,Industrial,Indústria Y,9,179,149.9,Itabuna
+2025-10-02,Camisa Corporativa,Corporativo,Hospital Vida,42,65,99.9,Jequié
+2025-10-03,Camisa Corporativa,Corporativo,Indústria Y,36,29,99.9,Vitória da Conquista
+2025-10-04,Uniforme Escolar,Escolar,Hospital Saúde+,48,276,89.9,Camaçari
+2025-10-05,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,7,237,129.9,Vitória da Conquista
+2025-10-06,Jaleco Hospitalar,Hospitalar,Indústria Y,21,216,129.9,Salvador
+2025-10-07,Jaleco Hospitalar,Hospitalar,Colégio Delta,9,207,129.9,Lauro de Freitas
+2025-10-08,Jaleco Hospitalar,Hospitalar,Empresa Gama,39,168,129.9,Lauro de Freitas
+2025-10-09,Macacão Industrial,Industrial,Indústria Y,8,171,149.9,Itabuna
+2025-10-10,Macacão Industrial,Industrial,Empresa Beta,41,130,149.9,Jequié
+2025-10-11,Macacão Industrial,Industrial,Empresa Beta,32,98,149.9,Jequié
+2025-10-12,Uniforme Escolar,Escolar,Colégio Beta,13,263,89.9,Camaçari
+2025-10-13,Uniforme Escolar,Escolar,Colégio Delta,47,216,89.9,Lauro de Freitas
+2025-10-14,Jaleco Hospitalar,Hospitalar,Indústria X,18,150,129.9,Feira de Santana
+2025-10-15,Uniforme Escolar,Escolar,Colégio Alfa,26,190,89.9,Salvador
+2025-10-16,Macacão Industrial,Industrial,Empresa Gama,33,65,149.9,Ilhéus
+2025-10-17,Macacão Industrial,Industrial,Empresa Beta,20,45,149.9,Itabuna
+2025-10-18,Camisa Corporativa,Corporativo,Indústria Y,37,264,99.9,Vitória da Conquista
+2025-10-19,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,19,131,129.9,Salvador
+2025-10-20,Macacão Industrial,Industrial,Hospital Vida,18,27,149.9,Ilhéus
+2025-10-21,Camisa Corporativa,Corporativo,Empresa Gama,43,221,99.9,Camaçari
+2025-10-22,Macacão Industrial,Industrial,Colégio Delta,37,218,149.9,Salvador
+2025-10-23,Jaleco Hospitalar,Hospitalar,Indústria X,48,83,129.9,Vitória da Conquista
+2025-10-24,Uniforme Escolar,Escolar,Colégio Delta,43,147,89.9,Camaçari
+2025-10-25,Macacão Industrial,Industrial,Colégio Alfa,11,207,149.9,Camaçari
+2025-10-26,Uniforme Escolar,Escolar,Colégio Beta,14,133,89.9,Salvador
+2025-10-27,Jaleco Hospitalar,Hospitalar,Empresa Gama,29,54,129.9,Salvador
+2025-10-28,Jaleco Hospitalar,Hospitalar,Hospital Vida,17,37,129.9,Camaçari
+2025-10-29,Camisa Corporativa,Corporativo,Colégio Delta,30,191,99.9,Salvador
+2025-10-30,Camisa Corporativa,Corporativo,Hospital Saúde+,20,171,99.9,Itabuna
+2025-10-31,Uniforme Escolar,Escolar,Colégio Beta,22,111,89.9,Camaçari
+2025-11-01,Camisa Corporativa,Corporativo,Hospital Saúde+,39,132,99.9,Lauro de Freitas
+2025-11-02,Camisa Corporativa,Corporativo,Indústria X,9,123,99.9,Feira de Santana
+2025-11-03,Macacão Industrial,Industrial,Colégio Alfa,39,168,149.9,Camaçari
+2025-11-04,Uniforme Escolar,Escolar,Colégio Delta,39,72,89.9,Ilhéus
+2025-11-05,Camisa Corporativa,Corporativo,Indústria Y,29,94,99.9,Vitória da Conquista
+2025-11-06,Camisa Corporativa,Corporativo,Colégio Beta,37,57,99.9,Salvador
+2025-11-07,Macacão Industrial,Industrial,Colégio Delta,32,136,149.9,Camaçari
+2025-11-08,Macacão Industrial,Industrial,Empresa Gama,21,115,149.9,Lauro de Freitas
+2025-11-09,Jaleco Hospitalar,Hospitalar,Indústria Y,39,327,129.9,Itabuna
+2025-11-10,Macacão Industrial,Industrial,Hospital Saúde+,18,97,149.9,Camaçari
+2025-11-11,Macacão Industrial,Industrial,Empresa Beta,40,57,149.9,Lauro de Freitas
+2025-11-12,Camisa Corporativa,Corporativo,Colégio Alfa,19,38,99.9,Feira de Santana
+2025-11-13,Macacão Industrial,Industrial,Hospital Vida,20,37,149.9,Ilhéus
+2025-11-14,Camisa Corporativa,Corporativo,Indústria Y,13,25,99.9,Salvador
+2025-11-15,Camisa Corporativa,Corporativo,Indústria Y,44,266,99.9,Salvador
+2025-11-16,Macacão Industrial,Industrial,Hospital Vida,31,6,149.9,Lauro de Freitas
+2025-11-17,Camisa Corporativa,Corporativo,Colégio Delta,12,254,99.9,Lauro de Freitas
+2025-11-18,Macacão Industrial,Industrial,Colégio Beta,31,377,149.9,Camaçari
+2025-11-19,Uniforme Escolar,Escolar,Hospital Saúde+,40,32,89.9,Ilhéus
+2025-11-20,Camisa Corporativa,Corporativo,Empresa Gama,15,239,99.9,Jequié
+2025-11-21,Camisa Corporativa,Corporativo,Indústria X,23,216,99.9,Feira de Santana
+2025-11-22,Jaleco Hospitalar,Hospitalar,Colégio Beta,50,277,129.9,Feira de Santana
+2025-11-23,Macacão Industrial,Industrial,Empresa Gama,14,363,149.9,Feira de Santana
+2025-11-24,Uniforme Escolar,Escolar,Colégio Alfa,5,27,89.9,Salvador
+2025-11-25,Camisa Corporativa,Corporativo,Indústria Y,17,199,99.9,Salvador
+2025-11-26,Uniforme Escolar,Escolar,Empresa Gama,25,2,89.9,Ilhéus
+2025-11-27,Uniforme Escolar,Escolar,Hospital Vida,20,289,89.9,Camaçari
+2025-11-28,Camisa Corporativa,Corporativo,Colégio Beta,43,156,99.9,Feira de Santana
+2025-11-29,Uniforme Escolar,Escolar,Colégio Delta,20,269,89.9,Salvador
+2025-11-30,Macacão Industrial,Industrial,Empresa Beta,5,358,149.9,Salvador
+2025-12-01,Camisa Corporativa,Corporativo,Colégio Beta,34,122,99.9,Salvador
+2025-12-02,Macacão Industrial,Industrial,Hospital Vida,47,311,149.9,Lauro de Freitas
+2025-12-03,Camisa Corporativa,Corporativo,Empresa Beta,18,104,99.9,Lauro de Freitas
+2025-12-04,Jaleco Hospitalar,Hospitalar,Indústria Y,11,266,129.9,Itabuna
+2025-12-05,Jaleco Hospitalar,Hospitalar,Colégio Beta,45,221,129.9,Feira de Santana
+2025-12-06,Uniforme Escolar,Escolar,Empresa Beta,38,231,89.9,Salvador
+2025-12-07,Jaleco Hospitalar,Hospitalar,Colégio Alfa,19,202,129.9,Ilhéus
+2025-12-08,Jaleco Hospitalar,Hospitalar,Colégio Alfa,8,194,129.9,Camaçari
+2025-12-09,Jaleco Hospitalar,Hospitalar,Indústria X,43,151,129.9,Ilhéus
+2025-12-10,Uniforme Escolar,Escolar,Empresa Beta,15,216,89.9,Lauro de Freitas
+2025-12-11,Uniforme Escolar,Escolar,Empresa Beta,13,203,89.9,Ilhéus
+2025-12-12,Jaleco Hospitalar,Hospitalar,Colégio Beta,6,145,129.9,Ilhéus
+2025-12-13,Jaleco Hospitalar,Hospitalar,Empresa Beta,28,117,129.9,Feira de Santana
+2025-12-14,Camisa Corporativa,Corporativo,Indústria Y,43,61,99.9,Lauro de Freitas
+2025-12-15,Uniforme Escolar,Escolar,Indústria X,49,154,89.9,Camaçari
+2025-12-16,Camisa Corporativa,Corporativo,Empresa Beta,27,34,99.9,Feira de Santana
+2025-12-17,Macacão Industrial,Industrial,Empresa Beta,26,285,149.9,Salvador
+2025-12-18,Macacão Industrial,Industrial,Colégio Alfa,29,256,149.9,Itabuna
+2025-12-19,Jaleco Hospitalar,Hospitalar,Hospital Vida,11,106,129.9,Ilhéus
+2025-12-20,Macacão Industrial,Industrial,Hospital Saúde+,23,233,149.9,Camaçari
+2025-12-21,Jaleco Hospitalar,Hospitalar,Empresa Beta,39,67,129.9,Camaçari
+2025-12-22,Camisa Corporativa,Corporativo,Indústria X,24,10,99.9,Salvador
+2025-12-23,Macacão Industrial,Industrial,Empresa Beta,11,222,149.9,Jequié
+2025-12-24,Jaleco Hospitalar,Hospitalar,Colégio Beta,44,23,129.9,Salvador
+2025-12-25,Macacão Industrial,Industrial,Hospital Saúde+,23,199,149.9,Ilhéus
+2025-12-26,Camisa Corporativa,Corporativo,Colégio Delta,9,1,99.9,Ilhéus
+2025-12-27,Camisa Corporativa,Corporativo,Indústria Y,12,334,99.9,Lauro de Freitas
+2025-12-28,Uniforme Escolar,Escolar,Hospital Saúde+,15,139,89.9,Jequié
+2025-12-29,Macacão Industrial,Industrial,Indústria X,41,158,149.9,Camaçari
+2025-12-30,Uniforme Escolar,Escolar,Indústria Y,24,115,89.9,Ilhéus
+2025-12-31,Camisa Corporativa,Corporativo,Empresa Gama,47,287,99.9,Camaçari
+2026-01-01,Jaleco Hospitalar,Hospitalar,Empresa Beta,37,308,129.9,Camaçari
+2026-01-02,Macacão Industrial,Industrial,Indústria Y,12,146,149.9,Camaçari
+2026-01-03,Uniforme Escolar,Escolar,Colégio Delta,29,86,89.9,Camaçari
+2026-01-04,Macacão Industrial,Industrial,Empresa Beta,43,103,149.9,Vitória da Conquista
+2026-01-05,Camisa Corporativa,Corporativo,Hospital Vida,30,257,99.9,Lauro de Freitas
+2026-01-06,Macacão Industrial,Industrial,Colégio Alfa,33,70,149.9,Salvador
+2026-01-07,Macacão Industrial,Industrial,Hospital Saúde+,43,27,149.9,Itabuna
+2026-01-08,Jaleco Hospitalar,Hospitalar,Empresa Beta,11,297,129.9,Lauro de Freitas
+2026-01-09,Uniforme Escolar,Escolar,Empresa Gama,42,44,89.9,Salvador
+2026-01-10,Macacão Industrial,Industrial,Indústria X,5,22,149.9,Lauro de Freitas
+2026-01-11,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,33,264,129.9,Lauro de Freitas
+2026-01-12,Camisa Corporativa,Corporativo,Colégio Beta,26,231,99.9,Ilhéus
+2026-01-13,Uniforme Escolar,Escolar,Empresa Beta,34,10,89.9,Salvador
+2026-01-14,Uniforme Escolar,Escolar,Hospital Saúde+,48,455,89.9,Lauro de Freitas
+2026-01-15,Macacão Industrial,Industrial,Colégio Beta,9,13,149.9,Lauro de Freitas
+2026-01-16,Uniforme Escolar,Escolar,Hospital Saúde+,7,448,89.9,Salvador
+2026-01-17,Uniforme Escolar,Escolar,Indústria X,50,398,89.9,Camaçari
+2026-01-18,Uniforme Escolar,Escolar,Indústria Y,6,392,89.9,Itabuna
+2026-01-19,Uniforme Escolar,Escolar,Colégio Beta,38,354,89.9,Salvador
+2026-01-20,Camisa Corporativa,Corporativo,Colégio Beta,40,191,99.9,Camaçari
+2026-01-21,Uniforme Escolar,Escolar,Colégio Delta,45,309,89.9,Camaçari
+2026-01-22,Camisa Corporativa,Corporativo,Indústria Y,29,162,99.9,Vitória da Conquista
+2026-01-23,Macacão Industrial,Industrial,Indústria Y,8,5,149.9,Feira de Santana
+2026-01-24,Jaleco Hospitalar,Hospitalar,Indústria Y,27,237,129.9,Feira de Santana
+2026-01-25,Camisa Corporativa,Corporativo,Colégio Delta,23,139,99.9,Vitória da Conquista
+2026-01-26,Camisa Corporativa,Corporativo,Colégio Delta,29,110,99.9,Camaçari
+2026-01-27,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,22,215,129.9,Lauro de Freitas
+2026-01-28,Camisa Corporativa,Corporativo,Empresa Gama,44,66,99.9,Feira de Santana
+2026-01-29,Uniforme Escolar,Escolar,Indústria Y,18,291,89.9,Salvador
+2026-01-30,Camisa Corporativa,Corporativo,Indústria X,7,59,99.9,Camaçari
+2026-01-31,Jaleco Hospitalar,Hospitalar,Colégio Beta,32,183,129.9,Vitória da Conquista
+2026-02-01,Macacão Industrial,Industrial,Hospital Saúde+,19,286,149.9,Itabuna
+2026-02-02,Macacão Industrial,Industrial,Colégio Delta,42,244,149.9,Salvador
+2026-02-03,Jaleco Hospitalar,Hospitalar,Indústria X,35,148,129.9,Camaçari
+2026-02-04,Jaleco Hospitalar,Hospitalar,Indústria X,41,107,129.9,Camaçari
+2026-02-05,Macacão Industrial,Industrial,Colégio Beta,5,239,149.9,Ilhéus
+2026-02-06,Camisa Corporativa,Corporativo,Empresa Gama,15,44,99.9,Feira de Santana
+2026-02-07,Macacão Industrial,Industrial,Empresa Beta,39,200,149.9,Vitória da Conquista
+2026-02-08,Jaleco Hospitalar,Hospitalar,Colégio Alfa,25,82,129.9,Ilhéus
+2026-02-09,Macacão Industrial,Industrial,Indústria Y,16,184,149.9,Ilhéus
+2026-02-10,Macacão Industrial,Industrial,Colégio Beta,37,147,149.9,Salvador
+2026-02-11,Camisa Corporativa,Corporativo,Indústria X,16,28,99.9,Lauro de Freitas
+2026-02-12,Jaleco Hospitalar,Hospitalar,Hospital Vida,50,32,129.9,Vitória da Conquista
+2026-02-13,Jaleco Hospitalar,Hospitalar,Hospital Vida,21,11,129.9,Camaçari
+2026-02-14,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,34,489,129.9,Vitória da Conquista
+2026-02-15,Jaleco Hospitalar,Hospitalar,Colégio Alfa,33,456,129.9,Lauro de Freitas
+2026-02-16,Camisa Corporativa,Corporativo,Colégio Alfa,39,419,99.9,Salvador
+2026-02-17,Uniforme Escolar,Escolar,Empresa Gama,21,270,89.9,Feira de Santana
+2026-02-18,Jaleco Hospitalar,Hospitalar,Colégio Delta,23,433,129.9,Salvador
+2026-02-19,Macacão Industrial,Industrial,Empresa Beta,50,97,149.9,Lauro de Freitas
+2026-02-20,Camisa Corporativa,Corporativo,Colégio Beta,22,397,99.9,Ilhéus
+2026-02-21,Jaleco Hospitalar,Hospitalar,Empresa Beta,35,398,129.9,Feira de Santana
+2026-02-22,Jaleco Hospitalar,Hospitalar,Empresa Gama,22,376,129.9,Camaçari
+2026-02-23,Macacão Industrial,Industrial,Empresa Beta,36,61,149.9,Camaçari
+2026-02-24,Jaleco Hospitalar,Hospitalar,Empresa Gama,38,338,129.9,Salvador
+2026-02-25,Jaleco Hospitalar,Hospitalar,Colégio Beta,47,291,129.9,Salvador
+2026-02-26,Uniforme Escolar,Escolar,Indústria X,16,254,89.9,Itabuna
+2026-02-27,Macacão Industrial,Industrial,Colégio Beta,7,54,149.9,Feira de Santana
+2026-02-28,Jaleco Hospitalar,Hospitalar,Empresa Beta,22,269,129.9,Salvador
+2026-03-01,Macacão Industrial,Industrial,Hospital Saúde+,40,14,149.9,Itabuna
+2026-03-02,Macacão Industrial,Industrial,Colégio Beta,40,331,149.9,Jequié
+2026-03-03,Uniforme Escolar,Escolar,Empresa Gama,45,209,89.9,Salvador
+2026-03-04,Jaleco Hospitalar,Hospitalar,Indústria X,19,250,129.9,Salvador
+2026-03-05,Jaleco Hospitalar,Hospitalar,Colégio Alfa,31,219,129.9,Itabuna
+2026-03-06,Macacão Industrial,Industrial,Hospital Vida,35,296,149.9,Ilhéus
+2026-03-07,Camisa Corporativa,Corporativo,Colégio Beta,27,370,99.9,Salvador
+2026-03-08,Camisa Corporativa,Corporativo,Hospital Saúde+,26,344,99.9,Salvador
+2026-03-09,Jaleco Hospitalar,Hospitalar,Indústria Y,19,200,129.9,Ilhéus
+2026-03-10,Jaleco Hospitalar,Hospitalar,Hospital Vida,47,153,129.9,Camaçari
+2026-03-11,Uniforme Escolar,Escolar,Empresa Beta,36,173,89.9,Camaçari
+2026-03-12,Macacão Industrial,Industrial,Empresa Beta,9,287,149.9,Ilhéus
+2026-03-13,Jaleco Hospitalar,Hospitalar,Empresa Beta,13,140,129.9,Feira de Santana
+2026-03-14,Uniforme Escolar,Escolar,Indústria Y,29,144,89.9,Lauro de Freitas
+2026-03-15,Uniforme Escolar,Escolar,Colégio Delta,21,123,89.9,Vitória da Conquista
+2026-03-16,Macacão Industrial,Industrial,Indústria Y,36,251,149.9,Ilhéus
+2026-03-17,Camisa Corporativa,Corporativo,Indústria Y,31,313,99.9,Camaçari
+2026-03-18,Camisa Corporativa,Corporativo,Empresa Gama,26,287,99.9,Vitória da Conquista
+2026-03-19,Jaleco Hospitalar,Hospitalar,Indústria Y,29,111,129.9,Lauro de Freitas
+2026-03-20,Macacão Industrial,Industrial,Empresa Gama,21,230,149.9,Camaçari
+2026-03-21,Uniforme Escolar,Escolar,Hospital Vida,21,102,89.9,Vitória da Conquista
+2026-03-22,Camisa Corporativa,Corporativo,Hospital Saúde+,48,239,99.9,Feira de Santana
+2026-03-23,Jaleco Hospitalar,Hospitalar,Hospital Vida,27,84,129.9,Lauro de Freitas
+2026-03-24,Uniforme Escolar,Escolar,Hospital Saúde+,38,64,89.9,Jequié
+2026-03-25,Macacão Industrial,Industrial,Hospital Vida,50,180,149.9,Vitória da Conquista
+2026-03-26,Uniforme Escolar,Escolar,Indústria Y,46,18,89.9,Itabuna
+2026-03-27,Jaleco Hospitalar,Hospitalar,Hospital Vida,14,70,129.9,Salvador
+2026-03-28,Macacão Industrial,Industrial,Colégio Delta,34,146,149.9,Salvador
+2026-03-29,Macacão Industrial,Industrial,Indústria X,42,104,149.9,Feira de Santana
+2026-03-30,Camisa Corporativa,Corporativo,Hospital Saúde+,38,201,99.9,Vitória da Conquista
+2026-03-31,Uniforme Escolar,Escolar,Hospital Vida,11,7,89.9,Itabuna
+2026-04-01,Macacão Industrial,Industrial,Indústria Y,19,85,149.9,Vitória da Conquista
+2026-04-02,Uniforme Escolar,Escolar,Empresa Gama,31,490,89.9,Camaçari
+2026-04-03,Uniforme Escolar,Escolar,Colégio Beta,7,483,89.9,Feira de Santana
+2026-04-04,Macacão Industrial,Industrial,Hospital Vida,24,61,149.9,Salvador
+2026-04-05,Macacão Industrial,Industrial,Indústria Y,32,29,149.9,Itabuna
+2026-04-06,Jaleco Hospitalar,Hospitalar,Empresa Gama,5,65,129.9,Itabuna
+2026-04-07,Jaleco Hospitalar,Hospitalar,Colégio Alfa,8,57,129.9,Vitória da Conquista
+2026-04-08,Macacão Industrial,Industrial,Hospital Saúde+,50,364,149.9,Itabuna
+2026-04-09,Jaleco Hospitalar,Hospitalar,Indústria X,22,35,129.9,Itabuna
+2026-04-10,Camisa Corporativa,Corporativo,Colégio Beta,41,160,99.9,Lauro de Freitas
+2026-04-11,Uniforme Escolar,Escolar,Indústria Y,5,478,89.9,Salvador
+2026-04-12,Macacão Industrial,Industrial,Hospital Saúde+,25,339,149.9,Salvador
+2026-04-13,Uniforme Escolar,Escolar,Hospital Saúde+,10,468,89.9,Vitória da Conquista
+2026-04-14,Macacão Industrial,Industrial,Indústria Y,35,304,149.9,Feira de Santana
+2026-04-15,Camisa Corporativa,Corporativo,Empresa Beta,39,121,99.9,Ilhéus
+2026-04-16,Uniforme Escolar,Escolar,Indústria X,35,433,89.9,Lauro de Freitas
+2026-04-17,Uniforme Escolar,Escolar,Hospital Saúde+,17,416,89.9,Salvador
+2026-04-18,Jaleco Hospitalar,Hospitalar,Hospital Vida,38,450,129.9,Lauro de Freitas
+2026-04-19,Camisa Corporativa,Corporativo,Indústria Y,9,112,99.9,Camaçari
+2026-04-20,Uniforme Escolar,Escolar,Empresa Beta,50,366,89.9,Camaçari
+2026-04-21,Uniforme Escolar,Escolar,Colégio Delta,20,346,89.9,Jequié
+2026-04-22,Camisa Corporativa,Corporativo,Indústria Y,42,70,99.9,Salvador
+2026-04-23,Jaleco Hospitalar,Hospitalar,Empresa Beta,19,431,129.9,Vitória da Conquista
+2026-04-24,Camisa Corporativa,Corporativo,Empresa Gama,23,47,99.9,Salvador
+2026-04-25,Macacão Industrial,Industrial,Hospital Vida,10,294,149.9,Camaçari
+2026-04-26,Jaleco Hospitalar,Hospitalar,Empresa Gama,17,414,129.9,Jequié
+2026-04-27,Uniforme Escolar,Escolar,Indústria Y,19,327,89.9,Itabuna
+2026-04-28,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,7,407,129.9,Jequié
+2026-04-29,Uniforme Escolar,Escolar,Empresa Gama,30,297,89.9,Salvador
+2026-04-30,Camisa Corporativa,Corporativo,Empresa Beta,41,6,99.9,Itabuna
+2026-05-01,Camisa Corporativa,Corporativo,Hospital Saúde+,37,357,99.9,Camaçari
+2026-05-02,Macacão Industrial,Industrial,Hospital Vida,43,251,149.9,Vitória da Conquista
+2026-05-03,Camisa Corporativa,Corporativo,Hospital Vida,41,316,99.9,Salvador
+2026-05-04,Macacão Industrial,Industrial,Empresa Beta,29,222,149.9,Salvador
+2026-05-05,Camisa Corporativa,Corporativo,Indústria X,49,267,99.9,Camaçari
+2026-05-06,Camisa Corporativa,Corporativo,Colégio Beta,31,236,99.9,Itabuna
+2026-05-07,Macacão Industrial,Industrial,Colégio Beta,47,175,149.9,Itabuna
+2026-05-08,Uniforme Escolar,Escolar,Empresa Beta,6,291,89.9,Salvador
+2026-05-09,Macacão Industrial,Industrial,Indústria X,32,143,149.9,Itabuna
+2026-05-10,Camisa Corporativa,Corporativo,Empresa Gama,31,205,99.9,Itabuna
+2026-05-11,Jaleco Hospitalar,Hospitalar,Colégio Beta,17,390,129.9,Jequié
+2026-05-12,Uniforme Escolar,Escolar,Colégio Delta,40,251,89.9,Lauro de Freitas
+2026-05-13,Macacão Industrial,Industrial,Indústria X,34,109,149.9,Jequié
+2026-05-14,Uniforme Escolar,Escolar,Empresa Gama,18,233,89.9,Salvador
+2026-05-15,Macacão Industrial,Industrial,Hospital Saúde+,6,103,149.9,Camaçari
+2026-05-16,Uniforme Escolar,Escolar,Empresa Gama,27,206,89.9,Salvador
+2026-05-17,Macacão Industrial,Industrial,Colégio Alfa,13,90,149.9,Itabuna
+2026-05-18,Uniforme Escolar,Escolar,Indústria X,13,193,89.9,Lauro de Freitas
+2026-05-19,Macacão Industrial,Industrial,Hospital Saúde+,40,50,149.9,Ilhéus
+2026-05-20,Uniforme Escolar,Escolar,Hospital Vida,30,163,89.9,Jequié
+2026-05-21,Macacão Industrial,Industrial,Hospital Vida,38,12,149.9,Jequié
+2026-05-22,Macacão Industrial,Industrial,Indústria X,34,373,149.9,Ilhéus
+2026-05-23,Macacão Industrial,Industrial,Colégio Alfa,18,355,149.9,Ilhéus
+2026-05-24,Macacão Industrial,Industrial,Hospital Vida,46,309,149.9,Lauro de Freitas
+2026-05-25,Camisa Corporativa,Corporativo,Hospital Saúde+,30,175,99.9,Salvador
+2026-05-26,Macacão Industrial,Industrial,Hospital Vida,38,271,149.9,Jequié
+2026-05-27,Macacão Industrial,Industrial,Colégio Alfa,34,237,149.9,Salvador
+2026-05-28,Camisa Corporativa,Corporativo,Empresa Gama,46,129,99.9,Ilhéus
+2026-05-29,Macacão Industrial,Industrial,Colégio Delta,25,212,149.9,Itabuna
+2026-05-30,Uniforme Escolar,Escolar,Hospital Saúde+,5,158,89.9,Feira de Santana
+2026-05-31,Macacão Industrial,Industrial,Indústria X,6,206,149.9,Ilhéus
+2026-06-01,Macacão Industrial,Industrial,Indústria X,17,189,149.9,Vitória da Conquista
+2026-06-02,Uniforme Escolar,Escolar,Empresa Beta,32,126,89.9,Ilhéus
+2026-06-03,Macacão Industrial,Industrial,Empresa Gama,32,157,149.9,Jequié
+2026-06-04,Camisa Corporativa,Corporativo,Colégio Alfa,40,89,99.9,Camaçari
+2026-06-05,Macacão Industrial,Industrial,Colégio Alfa,20,137,149.9,Vitória da Conquista
+2026-06-06,Camisa Corporativa,Corporativo,Colégio Alfa,46,43,99.9,Lauro de Freitas
+2026-06-07,Jaleco Hospitalar,Hospitalar,Indústria Y,16,374,129.9,Jequié
+2026-06-08,Jaleco Hospitalar,Hospitalar,Empresa Beta,25,349,129.9,Jequié
+2026-06-09,Macacão Industrial,Industrial,Empresa Gama,34,103,149.9,Jequié
+2026-06-10,Camisa Corporativa,Corporativo,Colégio Beta,23,20,99.9,Feira de Santana
+2026-06-11,Camisa Corporativa,Corporativo,Empresa Gama,18,2,99.9,Itabuna
+2026-06-12,Uniforme Escolar,Escolar,Indústria X,42,84,89.9,Vitória da Conquista
+2026-06-13,Uniforme Escolar,Escolar,Hospital Saúde+,5,79,89.9,Lauro de Freitas
+2026-06-14,Macacão Industrial,Industrial,Empresa Beta,6,97,149.9,Salvador
+2026-06-15,Camisa Corporativa,Corporativo,Hospital Saúde+,40,468,99.9,Jequié
+2026-06-16,Camisa Corporativa,Corporativo,Empresa Gama,35,433,99.9,Vitória da Conquista
+2026-06-17,Camisa Corporativa,Corporativo,Colégio Delta,15,418,99.9,Salvador
+2026-06-18,Macacão Industrial,Industrial,Empresa Gama,14,83,149.9,Jequié
+2026-06-19,Macacão Industrial,Industrial,Hospital Vida,23,60,149.9,Jequié
+2026-06-20,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,24,325,129.9,Jequié
+2026-06-21,Camisa Corporativa,Corporativo,Colégio Delta,24,394,99.9,Ilhéus
+2026-06-22,Camisa Corporativa,Corporativo,Empresa Beta,45,349,99.9,Feira de Santana
+2026-06-23,Macacão Industrial,Industrial,Colégio Alfa,27,33,149.9,Feira de Santana
+2026-06-24,Camisa Corporativa,Corporativo,Hospital Vida,14,335,99.9,Itabuna
+2026-06-25,Uniforme Escolar,Escolar,Hospital Saúde+,40,39,89.9,Lauro de Freitas
+2026-06-26,Macacão Industrial,Industrial,Indústria Y,22,11,149.9,Camaçari
+2026-06-27,Jaleco Hospitalar,Hospitalar,Colégio Delta,8,317,129.9,Lauro de Freitas
+2026-06-28,Jaleco Hospitalar,Hospitalar,Colégio Alfa,27,290,129.9,Camaçari
+2026-06-29,Macacão Industrial,Industrial,Colégio Alfa,16,483,149.9,Feira de Santana
+2026-06-30,Uniforme Escolar,Escolar,Empresa Beta,21,18,89.9,Lauro de Freitas
+2026-07-01,Camisa Corporativa,Corporativo,Colégio Alfa,43,292,99.9,Ilhéus
+2026-07-02,Macacão Industrial,Industrial,Hospital Saúde+,29,454,149.9,Jequié
+2026-07-03,Macacão Industrial,Industrial,Empresa Beta,24,430,149.9,Ilhéus
+2026-07-04,Camisa Corporativa,Corporativo,Indústria Y,43,249,99.9,Salvador
+2026-07-05,Jaleco Hospitalar,Hospitalar,Empresa Beta,9,281,129.9,Salvador
+2026-07-06,Camisa Corporativa,Corporativo,Indústria Y,41,208,99.9,Camaçari
+2026-07-07,Camisa Corporativa,Corporativo,Hospital Vida,16,192,99.9,Itabuna
+2026-07-08,Uniforme Escolar,Escolar,Empresa Beta,7,11,89.9,Vitória da Conquista
+2026-07-09,Macacão Industrial,Industrial,Hospital Saúde+,44,386,149.9,Ilhéus
+2026-07-10,Jaleco Hospitalar,Hospitalar,Colégio Delta,41,240,129.9,Ilhéus
+2026-07-11,Uniforme Escolar,Escolar,Hospital Vida,17,453,89.9,Jequié
+2026-07-12,Camisa Corporativa,Corporativo,Indústria Y,42,150,99.9,Itabuna
+2026-07-13,Camisa Corporativa,Corporativo,Hospital Vida,6,144,99.9,Ilhéus
+2026-07-14,Macacão Industrial,Industrial,Colégio Delta,36,350,149.9,Ilhéus
+2026-07-15,Macacão Industrial,Industrial,Hospital Saúde+,30,320,149.9,Lauro de Freitas
+2026-07-16,Jaleco Hospitalar,Hospitalar,Empresa Gama,5,235,129.9,Vitória da Conquista
+2026-07-17,Camisa Corporativa,Corporativo,Colégio Delta,6,138,99.9,Feira de Santana
+2026-07-18,Macacão Industrial,Industrial,Colégio Alfa,48,272,149.9,Ilhéus
+2026-07-19,Macacão Industrial,Industrial,Empresa Beta,20,252,149.9,Jequié
+2026-07-20,Jaleco Hospitalar,Hospitalar,Colégio Beta,17,218,129.9,Itabuna
+2026-07-21,Uniforme Escolar,Escolar,Hospital Saúde+,17,436,89.9,Camaçari
+2026-07-22,Jaleco Hospitalar,Hospitalar,Indústria X,24,194,129.9,Itabuna
+2026-07-23,Camisa Corporativa,Corporativo,Empresa Beta,10,128,99.9,Lauro de Freitas
+2026-07-24,Macacão Industrial,Industrial,Colégio Delta,31,221,149.9,Camaçari
+2026-07-25,Uniforme Escolar,Escolar,Indústria X,23,413,89.9,Ilhéus
+2026-07-26,Jaleco Hospitalar,Hospitalar,Colégio Beta,33,161,129.9,Itabuna
+2026-07-27,Uniforme Escolar,Escolar,Colégio Alfa,5,408,89.9,Camaçari
+2026-07-28,Jaleco Hospitalar,Hospitalar,Empresa Beta,37,124,129.9,Feira de Santana
+2026-07-29,Camisa Corporativa,Corporativo,Empresa Gama,30,98,99.9,Camaçari
+2026-07-30,Uniforme Escolar,Escolar,Empresa Gama,41,367,89.9,Camaçari
+2026-07-31,Macacão Industrial,Industrial,Colégio Beta,12,209,149.9,Jequié
+2026-08-01,Camisa Corporativa,Corporativo,Colégio Alfa,35,63,99.9,Vitória da Conquista
+2026-08-02,Camisa Corporativa,Corporativo,Empresa Beta,31,32,99.9,Itabuna
+2026-08-03,Uniforme Escolar,Escolar,Hospital Saúde+,12,355,89.9,Feira de Santana
+2026-08-04,Jaleco Hospitalar,Hospitalar,Empresa Beta,28,96,129.9,Jequié
+2026-08-05,Camisa Corporativa,Corporativo,Hospital Vida,36,467,99.9,Jequié
+2026-08-06,Jaleco Hospitalar,Hospitalar,Indústria Y,27,69,129.9,Lauro de Freitas
+2026-08-07,Macacão Industrial,Industrial,Colégio Delta,5,204,149.9,Vitória da Conquista
+2026-08-08,Uniforme Escolar,Escolar,Hospital Vida,18,337,89.9,Lauro de Freitas
+2026-08-09,Jaleco Hospitalar,Hospitalar,Colégio Delta,31,38,129.9,Jequié
+2026-08-10,Macacão Industrial,Industrial,Hospital Vida,32,172,149.9,Feira de Santana
+2026-08-11,Uniforme Escolar,Escolar,Indústria Y,15,322,89.9,Ilhéus
+2026-08-12,Camisa Corporativa,Corporativo,Colégio Alfa,46,421,99.9,Ilhéus
+2026-08-13,Jaleco Hospitalar,Hospitalar,Hospital Vida,43,254,129.9,Jequié
+2026-08-14,Camisa Corporativa,Corporativo,Colégio Delta,37,384,99.9,Feira de Santana
+2026-08-15,Macacão Industrial,Industrial,Colégio Beta,15,157,149.9,Camaçari
+2026-08-16,Uniforme Escolar,Escolar,Hospital Saúde+,21,301,89.9,Salvador
+2026-08-17,Camisa Corporativa,Corporativo,Hospital Vida,17,367,99.9,Itabuna
+2026-08-18,Macacão Industrial,Industrial,Empresa Beta,26,131,149.9,Ilhéus
+2026-08-19,Uniforme Escolar,Escolar,Hospital Saúde+,20,281,89.9,Jequié
+2026-08-20,Macacão Industrial,Industrial,Empresa Beta,27,104,149.9,Itabuna
+2026-08-21,Macacão Industrial,Industrial,Colégio Delta,8,96,149.9,Vitória da Conquista
+2026-08-22,Jaleco Hospitalar,Hospitalar,Indústria X,27,227,129.9,Lauro de Freitas
+2026-08-23,Uniforme Escolar,Escolar,Hospital Saúde+,38,243,89.9,Jequié
+2026-08-24,Jaleco Hospitalar,Hospitalar,Colégio Beta,31,196,129.9,Jequié
+2026-08-25,Macacão Industrial,Industrial,Hospital Vida,46,50,149.9,Feira de Santana
+2026-08-26,Camisa Corporativa,Corporativo,Colégio Alfa,28,339,99.9,Camaçari
+2026-08-27,Camisa Corporativa,Corporativo,Hospital Vida,21,318,99.9,Itabuna
+2026-08-28,Jaleco Hospitalar,Hospitalar,Empresa Beta,21,175,129.9,Itabuna
+2026-08-29,Uniforme Escolar,Escolar,Colégio Beta,47,196,89.9,Lauro de Freitas
+2026-08-30,Uniforme Escolar,Escolar,Empresa Beta,45,151,89.9,Feira de Santana
+2026-08-31,Jaleco Hospitalar,Hospitalar,Colégio Beta,44,131,129.9,Ilhéus
+2026-09-01,Jaleco Hospitalar,Hospitalar,Hospital Vida,33,98,129.9,Vitória da Conquista
+2026-09-02,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,43,55,129.9,Salvador
+2026-09-03,Macacão Industrial,Industrial,Colégio Delta,36,14,149.9,Salvador
+2026-09-04,Macacão Industrial,Industrial,Indústria X,22,246,149.9,Ilhéus
+2026-09-05,Uniforme Escolar,Escolar,Colégio Delta,42,109,89.9,Camaçari
+2026-09-06,Jaleco Hospitalar,Hospitalar,Empresa Gama,27,28,129.9,Feira de Santana
+2026-09-07,Macacão Industrial,Industrial,Empresa Beta,9,237,149.9,Feira de Santana
+2026-09-08,Macacão Industrial,Industrial,Colégio Alfa,21,216,149.9,Camaçari
+2026-09-09,Jaleco Hospitalar,Hospitalar,Indústria Y,47,223,129.9,Vitória da Conquista
+2026-09-10,Uniforme Escolar,Escolar,Indústria Y,47,62,89.9,Salvador
+2026-09-11,Uniforme Escolar,Escolar,Colégio Beta,39,23,89.9,Lauro de Freitas
+2026-09-12,Camisa Corporativa,Corporativo,Empresa Beta,10,308,99.9,Camaçari
+2026-09-13,Uniforme Escolar,Escolar,Empresa Gama,35,490,89.9,Jequié
+2026-09-14,Uniforme Escolar,Escolar,Empresa Gama,26,464,89.9,Itabuna
+2026-09-15,Macacão Industrial,Industrial,Colégio Alfa,50,166,149.9,Feira de Santana
+2026-09-16,Camisa Corporativa,Corporativo,Hospital Vida,50,258,99.9,Vitória da Conquista
+2026-09-17,Uniforme Escolar,Escolar,Hospital Saúde+,8,456,89.9,Lauro de Freitas
+2026-09-18,Camisa Corporativa,Corporativo,Colégio Delta,16,242,99.9,Lauro de Freitas
+2026-09-19,Jaleco Hospitalar,Hospitalar,Hospital Vida,47,176,129.9,Feira de Santana
+2026-09-20,Jaleco Hospitalar,Hospitalar,Indústria X,8,168,129.9,Vitória da Conquista
+2026-09-21,Uniforme Escolar,Escolar,Indústria Y,26,430,89.9,Ilhéus
+2026-09-22,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,37,131,129.9,Ilhéus
+2026-09-23,Macacão Industrial,Industrial,Empresa Beta,15,151,149.9,Itabuna
+2026-09-24,Jaleco Hospitalar,Hospitalar,Empresa Beta,49,82,129.9,Lauro de Freitas
+2026-09-25,Macacão Industrial,Industrial,Colégio Alfa,14,137,149.9,Vitória da Conquista
+2026-09-26,Jaleco Hospitalar,Hospitalar,Empresa Beta,37,45,129.9,Salvador
+2026-09-27,Camisa Corporativa,Corporativo,Hospital Vida,23,219,99.9,Vitória da Conquista
+2026-09-28,Uniforme Escolar,Escolar,Hospital Saúde+,20,410,89.9,Lauro de Freitas
+2026-09-29,Camisa Corporativa,Corporativo,Indústria Y,16,203,99.9,Camaçari
+2026-09-30,Camisa Corporativa,Corporativo,Colégio Alfa,17,186,99.9,Ilhéus
+2026-10-01,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,28,17,129.9,Jequié
+2026-10-02,Uniforme Escolar,Escolar,Colégio Delta,42,368,89.9,Camaçari
+2026-10-03,Jaleco Hospitalar,Hospitalar,Colégio Delta,5,12,129.9,Feira de Santana
+2026-10-04,Macacão Industrial,Industrial,Empresa Gama,40,97,149.9,Jequié
+2026-10-05,Camisa Corporativa,Corporativo,Indústria Y,31,155,99.9,Ilhéus
+2026-10-06,Uniforme Escolar,Escolar,Empresa Beta,24,344,89.9,Camaçari
+2026-10-07,Jaleco Hospitalar,Hospitalar,Colégio Alfa,8,4,129.9,Jequié
+2026-10-08,Camisa Corporativa,Corporativo,Indústria X,10,145,99.9,Itabuna
+2026-10-09,Macacão Industrial,Industrial,Colégio Delta,50,47,149.9,Salvador
+2026-10-10,Jaleco Hospitalar,Hospitalar,Indústria X,36,452,129.9,Vitória da Conquista
+2026-10-11,Jaleco Hospitalar,Hospitalar,Colégio Beta,9,443,129.9,Salvador
+2026-10-12,Camisa Corporativa,Corporativo,Indústria Y,24,121,99.9,Itabuna
+2026-10-13,Uniforme Escolar,Escolar,Empresa Beta,32,312,89.9,Salvador
+2026-10-14,Camisa Corporativa,Corporativo,Hospital Vida,25,96,99.9,Salvador
+2026-10-15,Camisa Corporativa,Corporativo,Colégio Alfa,43,53,99.9,Feira de Santana
+2026-10-16,Camisa Corporativa,Corporativo,Colégio Alfa,6,47,99.9,Camaçari
+2026-10-17,Jaleco Hospitalar,Hospitalar,Indústria Y,43,400,129.9,Feira de Santana
+2026-10-18,Jaleco Hospitalar,Hospitalar,Empresa Gama,37,363,129.9,Camaçari
+2026-10-19,Camisa Corporativa,Corporativo,Hospital Saúde+,21,26,99.9,Camaçari
+2026-10-20,Jaleco Hospitalar,Hospitalar,Hospital Vida,21,342,129.9,Itabuna
+2026-10-21,Macacão Industrial,Industrial,Hospital Vida,10,37,149.9,Salvador
+2026-10-22,Uniforme Escolar,Escolar,Colégio Alfa,36,276,89.9,Ilhéus
+2026-10-23,Uniforme Escolar,Escolar,Empresa Beta,47,229,89.9,Itabuna
+2026-10-24,Uniforme Escolar,Escolar,Empresa Beta,6,223,89.9,Salvador
+2026-10-25,Macacão Industrial,Industrial,Colégio Delta,20,17,149.9,Lauro de Freitas
+2026-10-26,Macacão Industrial,Industrial,Hospital Vida,27,286,149.9,Camaçari
+2026-10-27,Jaleco Hospitalar,Hospitalar,Colégio Alfa,50,292,129.9,Itabuna
+2026-10-28,Camisa Corporativa,Corporativo,Hospital Saúde+,30,474,99.9,Vitória da Conquista
+2026-10-29,Jaleco Hospitalar,Hospitalar,Indústria Y,23,269,129.9,Ilhéus
+2026-10-30,Jaleco Hospitalar,Hospitalar,Colégio Delta,26,243,129.9,Jequié
+2026-10-31,Macacão Industrial,Industrial,Colégio Delta,13,273,149.9,Salvador
+2026-11-01,Uniforme Escolar,Escolar,Indústria X,21,202,89.9,Vitória da Conquista
+2026-11-02,Camisa Corporativa,Corporativo,Hospital Vida,22,452,99.9,Itabuna
+2026-11-03,Jaleco Hospitalar,Hospitalar,Indústria Y,13,230,129.9,Camaçari
+2026-11-04,Uniforme Escolar,Escolar,Empresa Beta,42,160,89.9,Ilhéus
+2026-11-05,Uniforme Escolar,Escolar,Indústria X,47,113,89.9,Ilhéus
+2026-11-06,Uniforme Escolar,Escolar,Hospital Saúde+,25,88,89.9,Camaçari
+2026-11-07,Jaleco Hospitalar,Hospitalar,Colégio Beta,41,189,129.9,Ilhéus
+2026-11-08,Macacão Industrial,Industrial,Indústria X,16,257,149.9,Ilhéus
+2026-11-09,Uniforme Escolar,Escolar,Indústria X,12,76,89.9,Lauro de Freitas
+2026-11-10,Jaleco Hospitalar,Hospitalar,Colégio Beta,17,172,129.9,Feira de Santana
+2026-11-11,Uniforme Escolar,Escolar,Colégio Alfa,39,37,89.9,Camaçari
+2026-11-12,Uniforme Escolar,Escolar,Empresa Beta,25,12,89.9,Camaçari
+2026-11-13,Uniforme Escolar,Escolar,Hospital Saúde+,14,442,89.9,Camaçari
+2026-11-14,Macacão Industrial,Industrial,Colégio Delta,34,223,149.9,Vitória da Conquista
+2026-11-15,Uniforme Escolar,Escolar,Hospital Vida,17,425,89.9,Salvador
+2026-11-16,Jaleco Hospitalar,Hospitalar,Empresa Gama,38,134,129.9,Vitória da Conquista
+2026-11-17,Camisa Corporativa,Corporativo,Indústria Y,20,432,99.9,Salvador
+2026-11-18,Uniforme Escolar,Escolar,Indústria X,49,376,89.9,Lauro de Freitas
+2026-11-19,Uniforme Escolar,Escolar,Indústria Y,34,342,89.9,Salvador
+2026-11-20,Uniforme Escolar,Escolar,Colégio Alfa,38,304,89.9,Lauro de Freitas
+2026-11-21,Jaleco Hospitalar,Hospitalar,Hospital Vida,26,108,129.9,Salvador
+2026-11-22,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,22,86,129.9,Vitória da Conquista
+2026-11-23,Macacão Industrial,Industrial,Indústria Y,46,177,149.9,Ilhéus
+2026-11-24,Camisa Corporativa,Corporativo,Empresa Gama,31,401,99.9,Jequié
+2026-11-25,Macacão Industrial,Industrial,Indústria Y,16,161,149.9,Jequié
+2026-11-26,Uniforme Escolar,Escolar,Colégio Alfa,5,299,89.9,Salvador
+2026-11-27,Camisa Corporativa,Corporativo,Hospital Vida,30,371,99.9,Lauro de Freitas
+2026-11-28,Uniforme Escolar,Escolar,Colégio Beta,15,284,89.9,Salvador
+2026-11-29,Uniforme Escolar,Escolar,Indústria X,47,237,89.9,Vitória da Conquista
+2026-11-30,Uniforme Escolar,Escolar,Indústria Y,13,224,89.9,Jequié
+2026-12-01,Camisa Corporativa,Corporativo,Indústria Y,29,342,99.9,Itabuna
+2026-12-02,Uniforme Escolar,Escolar,Colégio Alfa,49,175,89.9,Vitória da Conquista
+2026-12-03,Jaleco Hospitalar,Hospitalar,Colégio Alfa,7,79,129.9,Feira de Santana
+2026-12-04,Camisa Corporativa,Corporativo,Hospital Vida,9,333,99.9,Camaçari
+2026-12-05,Camisa Corporativa,Corporativo,Hospital Saúde+,39,294,99.9,Itabuna
+2026-12-06,Uniforme Escolar,Escolar,Empresa Gama,40,135,89.9,Jequié
+2026-12-07,Uniforme Escolar,Escolar,Indústria Y,23,112,89.9,Jequié
+2026-12-08,Uniforme Escolar,Escolar,Empresa Beta,6,106,89.9,Ilhéus
+2026-12-09,Macacão Industrial,Industrial,Hospital Saúde+,7,154,149.9,Lauro de Freitas
+2026-12-10,Jaleco Hospitalar,Hospitalar,Empresa Gama,31,48,129.9,Ilhéus
+2026-12-11,Macacão Industrial,Industrial,Colégio Alfa,8,146,149.9,Lauro de Freitas
+2026-12-12,Camisa Corporativa,Corporativo,Colégio Beta,29,265,99.9,Itabuna
+2026-12-13,Uniforme Escolar,Escolar,Indústria X,50,56,89.9,Vitória da Conquista
+2026-12-14,Jaleco Hospitalar,Hospitalar,Hospital Vida,22,26,129.9,Lauro de Freitas
+2026-12-15,Camisa Corporativa,Corporativo,Indústria Y,21,244,99.9,Feira de Santana
+2026-12-16,Camisa Corporativa,Corporativo,Hospital Saúde+,34,210,99.9,Lauro de Freitas
+2026-12-17,Uniforme Escolar,Escolar,Empresa Beta,34,22,89.9,Feira de Santana
+2026-12-18,Jaleco Hospitalar,Hospitalar,Empresa Gama,28,476,129.9,Feira de Santana
+2026-12-19,Uniforme Escolar,Escolar,Hospital Saúde+,41,240,89.9,Ilhéus
+2026-12-20,Camisa Corporativa,Corporativo,Empresa Gama,40,170,99.9,Camaçari
+2026-12-21,Uniforme Escolar,Escolar,Hospital Saúde+,5,235,89.9,Feira de Santana
+2026-12-22,Jaleco Hospitalar,Hospitalar,Hospital Vida,45,431,129.9,Ilhéus
+2026-12-23,Uniforme Escolar,Escolar,Empresa Beta,27,208,89.9,Itabuna
+2026-12-24,Uniforme Escolar,Escolar,Indústria X,42,166,89.9,Salvador
+2026-12-25,Macacão Industrial,Industrial,Colégio Beta,28,118,149.9,Feira de Santana
+2026-12-26,Uniforme Escolar,Escolar,Indústria X,21,145,89.9,Itabuna
+2026-12-27,Uniforme Escolar,Escolar,Colégio Alfa,11,134,89.9,Jequié
+2026-12-28,Uniforme Escolar,Escolar,Indústria Y,8,126,89.9,Salvador
+2026-12-29,Macacão Industrial,Industrial,Colégio Alfa,11,107,149.9,Lauro de Freitas
+2026-12-30,Jaleco Hospitalar,Hospitalar,Colégio Delta,35,396,129.9,Itabuna
+2026-12-31,Camisa Corporativa,Corporativo,Indústria X,6,164,99.9,Salvador
+2027-01-01,Uniforme Escolar,Escolar,Indústria Y,19,107,89.9,Salvador
+2027-01-02,Jaleco Hospitalar,Hospitalar,Indústria Y,16,380,129.9,Salvador
+2027-01-03,Macacão Industrial,Industrial,Indústria X,21,86,149.9,Itabuna
+2027-01-04,Macacão Industrial,Industrial,Indústria X,37,49,149.9,Feira de Santana
+2027-01-05,Jaleco Hospitalar,Hospitalar,Colégio Delta,16,364,129.9,Jequié
+2027-01-06,Camisa Corporativa,Corporativo,Hospital Saúde+,46,118,99.9,Vitória da Conquista
+2027-01-07,Jaleco Hospitalar,Hospitalar,Indústria Y,43,321,129.9,Itabuna
+2027-01-08,Macacão Industrial,Industrial,Colégio Alfa,9,40,149.9,Camaçari
+2027-01-09,Camisa Corporativa,Corporativo,Hospital Saúde+,47,71,99.9,Jequié
+2027-01-10,Macacão Industrial,Industrial,Colégio Delta,21,19,149.9,Vitória da Conquista
+2027-01-11,Uniforme Escolar,Escolar,Colégio Beta,27,80,89.9,Salvador
+2027-01-12,Uniforme Escolar,Escolar,Hospital Saúde+,43,37,89.9,Salvador
+2027-01-13,Camisa Corporativa,Corporativo,Hospital Saúde+,38,33,99.9,Vitória da Conquista
+2027-01-14,Uniforme Escolar,Escolar,Colégio Delta,29,8,89.9,Vitória da Conquista
+2027-01-15,Camisa Corporativa,Corporativo,Indústria X,45,470,99.9,Itabuna
+2027-01-16,Macacão Industrial,Industrial,Indústria Y,28,437,149.9,Feira de Santana
+2027-01-17,Jaleco Hospitalar,Hospitalar,Empresa Beta,25,296,129.9,Lauro de Freitas
+2027-01-18,Macacão Industrial,Industrial,Empresa Gama,8,429,149.9,Ilhéus
+2027-01-19,Macacão Industrial,Industrial,Indústria X,17,412,149.9,Lauro de Freitas
+2027-01-20,Camisa Corporativa,Corporativo,Hospital Vida,41,429,99.9,Lauro de Freitas
+2027-01-21,Uniforme Escolar,Escolar,Hospital Vida,48,482,89.9,Itabuna
+2027-01-22,Camisa Corporativa,Corporativo,Colégio Alfa,11,418,99.9,Ilhéus
+2027-01-23,Jaleco Hospitalar,Hospitalar,Empresa Beta,30,266,129.9,Salvador
+2027-01-24,Macacão Industrial,Industrial,Indústria Y,38,374,149.9,Itabuna
+2027-01-25,Camisa Corporativa,Corporativo,Colégio Beta,24,394,99.9,Itabuna
+2027-01-26,Macacão Industrial,Industrial,Hospital Saúde+,15,359,149.9,Lauro de Freitas
+2027-01-27,Macacão Industrial,Industrial,Colégio Beta,46,313,149.9,Ilhéus
+2027-01-28,Uniforme Escolar,Escolar,Empresa Beta,22,460,89.9,Lauro de Freitas
+2027-01-29,Jaleco Hospitalar,Hospitalar,Colégio Delta,43,223,129.9,Ilhéus
+2027-01-30,Camisa Corporativa,Corporativo,Empresa Gama,22,372,99.9,Feira de Santana
+2027-01-31,Camisa Corporativa,Corporativo,Colégio Delta,22,350,99.9,Lauro de Freitas
+2027-02-01,Jaleco Hospitalar,Hospitalar,Indústria X,16,207,129.9,Vitória da Conquista
+2027-02-02,Uniforme Escolar,Escolar,Colégio Beta,34,426,89.9,Feira de Santana
+2027-02-03,Jaleco Hospitalar,Hospitalar,Colégio Beta,30,177,129.9,Itabuna
+2027-02-04,Camisa Corporativa,Corporativo,Hospital Vida,37,313,99.9,Salvador
+2027-02-05,Jaleco Hospitalar,Hospitalar,Hospital Vida,25,152,129.9,Feira de Santana
+2027-02-06,Jaleco Hospitalar,Hospitalar,Empresa Beta,7,145,129.9,Ilhéus
+2027-02-07,Camisa Corporativa,Corporativo,Empresa Beta,44,269,99.9,Lauro de Freitas
+2027-02-08,Camisa Corporativa,Corporativo,Indústria X,7,262,99.9,Itabuna
+2027-02-09,Uniforme Escolar,Escolar,Indústria X,17,409,89.9,Ilhéus
+2027-02-10,Macacão Industrial,Industrial,Colégio Alfa,40,273,149.9,Lauro de Freitas
+2027-02-11,Uniforme Escolar,Escolar,Empresa Gama,43,366,89.9,Vitória da Conquista
+2027-02-12,Uniforme Escolar,Escolar,Colégio Beta,33,333,89.9,Ilhéus
+2027-02-13,Uniforme Escolar,Escolar,Hospital Saúde+,43,290,89.9,Lauro de Freitas
+2027-02-14,Uniforme Escolar,Escolar,Empresa Gama,48,242,89.9,Feira de Santana
+2027-02-15,Uniforme Escolar,Escolar,Colégio Beta,33,209,89.9,Lauro de Freitas
+2027-02-16,Uniforme Escolar,Escolar,Colégio Beta,46,163,89.9,Ilhéus
+2027-02-17,Uniforme Escolar,Escolar,Indústria Y,49,114,89.9,Salvador
+2027-02-18,Uniforme Escolar,Escolar,Hospital Saúde+,12,102,89.9,Itabuna
+2027-02-19,Uniforme Escolar,Escolar,Indústria X,33,69,89.9,Salvador
+2027-02-20,Macacão Industrial,Industrial,Colégio Beta,33,240,149.9,Feira de Santana
+2027-02-21,Macacão Industrial,Industrial,Colégio Delta,28,212,149.9,Vitória da Conquista
+2027-02-22,Jaleco Hospitalar,Hospitalar,Indústria X,18,127,129.9,Vitória da Conquista
+2027-02-23,Jaleco Hospitalar,Hospitalar,Colégio Beta,28,99,129.9,Vitória da Conquista
+2027-02-24,Macacão Industrial,Industrial,Indústria Y,31,181,149.9,Jequié
+2027-02-25,Macacão Industrial,Industrial,Hospital Saúde+,50,131,149.9,Camaçari
+2027-02-26,Macacão Industrial,Industrial,Colégio Alfa,27,104,149.9,Itabuna
+2027-02-27,Camisa Corporativa,Corporativo,Colégio Beta,18,244,99.9,Feira de Santana
+2027-02-28,Uniforme Escolar,Escolar,Indústria X,45,24,89.9,Ilhéus
+2027-03-01,Uniforme Escolar,Escolar,Indústria X,10,14,89.9,Salvador
+2027-03-02,Jaleco Hospitalar,Hospitalar,Colégio Alfa,33,66,129.9,Ilhéus
+2027-03-03,Macacão Industrial,Industrial,Empresa Beta,43,61,149.9,Salvador
+2027-03-04,Jaleco Hospitalar,Hospitalar,Colégio Alfa,37,29,129.9,Lauro de Freitas
+2027-03-05,Uniforme Escolar,Escolar,Empresa Beta,36,325,89.9,Camaçari
+2027-03-06,Jaleco Hospitalar,Hospitalar,Empresa Beta,29,219,129.9,Jequié
+2027-03-07,Macacão Industrial,Industrial,Colégio Beta,46,15,149.9,Ilhéus
+2027-03-08,Uniforme Escolar,Escolar,Empresa Gama,31,294,89.9,Itabuna
+2027-03-09,Uniforme Escolar,Escolar,Indústria X,47,247,89.9,Camaçari
+2027-03-10,Macacão Industrial,Industrial,Colégio Delta,34,416,149.9,Lauro de Freitas
+2027-03-11,Uniforme Escolar,Escolar,Hospital Vida,29,218,89.9,Ilhéus
+2027-03-12,Camisa Corporativa,Corporativo,Empresa Gama,16,228,99.9,Camaçari
+2027-03-13,Camisa Corporativa,Corporativo,Hospital Saúde+,6,222,99.9,Feira de Santana
+2027-03-14,Macacão Industrial,Industrial,Empresa Gama,35,381,149.9,Camaçari
+2027-03-15,Jaleco Hospitalar,Hospitalar,Hospital Vida,45,174,129.9,Itabuna
+2027-03-16,Uniforme Escolar,Escolar,Colégio Delta,17,201,89.9,Ilhéus
+2027-03-17,Macacão Industrial,Industrial,Hospital Vida,7,374,149.9,Ilhéus
+2027-03-18,Camisa Corporativa,Corporativo,Colégio Beta,40,182,99.9,Salvador
+2027-03-19,Camisa Corporativa,Corporativo,Indústria Y,21,161,99.9,Salvador
+2027-03-20,Jaleco Hospitalar,Hospitalar,Colégio Beta,48,126,129.9,Ilhéus
+2027-03-21,Macacão Industrial,Industrial,Empresa Beta,28,346,149.9,Jequié
+2027-03-22,Jaleco Hospitalar,Hospitalar,Empresa Beta,40,86,129.9,Jequié
+2027-03-23,Jaleco Hospitalar,Hospitalar,Hospital Vida,15,71,129.9,Ilhéus
+2027-03-24,Macacão Industrial,Industrial,Empresa Beta,10,336,149.9,Camaçari
+2027-03-25,Jaleco Hospitalar,Hospitalar,Colégio Beta,46,25,129.9,Jequié
+2027-03-26,Uniforme Escolar,Escolar,Indústria Y,47,154,89.9,Itabuna
+2027-03-27,Macacão Industrial,Industrial,Colégio Beta,15,321,149.9,Vitória da Conquista
+2027-03-28,Camisa Corporativa,Corporativo,Colégio Beta,21,140,99.9,Camaçari
+2027-03-29,Uniforme Escolar,Escolar,Indústria X,20,134,89.9,Ilhéus
+2027-03-30,Camisa Corporativa,Corporativo,Colégio Delta,20,120,99.9,Vitória da Conquista
+2027-03-31,Macacão Industrial,Industrial,Indústria Y,44,277,149.9,Vitória da Conquista
+2027-04-01,Camisa Corporativa,Corporativo,Colégio Beta,39,81,99.9,Vitória da Conquista
+2027-04-02,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,43,289,129.9,Salvador
+2027-04-03,Uniforme Escolar,Escolar,Indústria Y,20,114,89.9,Camaçari
+2027-04-04,Jaleco Hospitalar,Hospitalar,Indústria Y,10,279,129.9,Itabuna
+2027-04-05,Jaleco Hospitalar,Hospitalar,Colégio Beta,26,253,129.9,Camaçari
+2027-04-06,Jaleco Hospitalar,Hospitalar,Empresa Beta,35,218,129.9,Salvador
+2027-04-07,Jaleco Hospitalar,Hospitalar,Indústria Y,28,190,129.9,Vitória da Conquista
+2027-04-08,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,46,144,129.9,Vitória da Conquista
+2027-04-09,Camisa Corporativa,Corporativo,Colégio Beta,10,71,99.9,Feira de Santana
+2027-04-10,Camisa Corporativa,Corporativo,Indústria X,6,65,99.9,Feira de Santana
+2027-04-11,Macacão Industrial,Industrial,Colégio Delta,48,229,149.9,Vitória da Conquista
+2027-04-12,Camisa Corporativa,Corporativo,Empresa Gama,41,24,99.9,Jequié
+2027-04-13,Jaleco Hospitalar,Hospitalar,Empresa Beta,50,94,129.9,Ilhéus
+2027-04-14,Jaleco Hospitalar,Hospitalar,Empresa Beta,20,74,129.9,Vitória da Conquista
+2027-04-15,Camisa Corporativa,Corporativo,Hospital Vida,41,455,99.9,Camaçari
+2027-04-16,Jaleco Hospitalar,Hospitalar,Hospital Vida,46,28,129.9,Jequié
+2027-04-17,Jaleco Hospitalar,Hospitalar,Colégio Delta,46,212,129.9,Vitória da Conquista
+2027-04-18,Camisa Corporativa,Corporativo,Indústria Y,50,405,99.9,Vitória da Conquista
+2027-04-19,Uniforme Escolar,Escolar,Empresa Beta,18,96,89.9,Ilhéus
+2027-04-20,Uniforme Escolar,Escolar,Indústria X,19,77,89.9,Lauro de Freitas
+2027-04-21,Macacão Industrial,Industrial,Colégio Beta,47,182,149.9,Feira de Santana
+2027-04-22,Macacão Industrial,Industrial,Empresa Gama,43,139,149.9,Salvador
+2027-04-23,Uniforme Escolar,Escolar,Colégio Delta,29,48,89.9,Ilhéus
+2027-04-24,Jaleco Hospitalar,Hospitalar,Indústria Y,43,169,129.9,Lauro de Freitas
+2027-04-25,Macacão Industrial,Industrial,Hospital Vida,5,134,149.9,Feira de Santana
+2027-04-26,Uniforme Escolar,Escolar,Colégio Beta,42,6,89.9,Feira de Santana
+2027-04-27,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,7,162,129.9,Itabuna
+2027-04-28,Jaleco Hospitalar,Hospitalar,Indústria X,17,145,129.9,Vitória da Conquista
+2027-04-29,Jaleco Hospitalar,Hospitalar,Colégio Alfa,21,124,129.9,Vitória da Conquista
+2027-04-30,Macacão Industrial,Industrial,Colégio Alfa,38,96,149.9,Camaçari
+2027-05-01,Macacão Industrial,Industrial,Empresa Gama,49,47,149.9,Vitória da Conquista
+2027-05-02,Camisa Corporativa,Corporativo,Empresa Gama,26,379,99.9,Jequié
+2027-05-03,Jaleco Hospitalar,Hospitalar,Colégio Beta,32,92,129.9,Salvador
+2027-05-04,Uniforme Escolar,Escolar,Hospital Saúde+,33,453,89.9,Itabuna
+2027-05-05,Camisa Corporativa,Corporativo,Hospital Saúde+,30,349,99.9,Jequié
+2027-05-06,Macacão Industrial,Industrial,Colégio Beta,42,5,149.9,Ilhéus
+2027-05-07,Jaleco Hospitalar,Hospitalar,Colégio Delta,30,62,129.9,Salvador
+2027-05-08,Camisa Corporativa,Corporativo,Empresa Beta,34,315,99.9,Jequié
+2027-05-09,Camisa Corporativa,Corporativo,Colégio Alfa,30,285,99.9,Jequié
+2027-05-10,Jaleco Hospitalar,Hospitalar,Colégio Beta,6,56,129.9,Lauro de Freitas
+2027-05-11,Uniforme Escolar,Escolar,Hospital Saúde+,48,405,89.9,Itabuna
+2027-05-12,Macacão Industrial,Industrial,Colégio Alfa,28,214,149.9,Salvador
+2027-05-13,Camisa Corporativa,Corporativo,Colégio Beta,50,235,99.9,Ilhéus
+2027-05-14,Jaleco Hospitalar,Hospitalar,Colégio Alfa,42,14,129.9,Ilhéus
+2027-05-15,Uniforme Escolar,Escolar,Hospital Vida,47,358,89.9,Vitória da Conquista
+2027-05-16,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,31,339,129.9,Vitória da Conquista
+2027-05-17,Camisa Corporativa,Corporativo,Hospital Saúde+,47,188,99.9,Vitória da Conquista
+2027-05-18,Macacão Industrial,Industrial,Hospital Saúde+,50,164,149.9,Camaçari
+2027-05-19,Camisa Corporativa,Corporativo,Colégio Beta,37,151,99.9,Feira de Santana
+2027-05-20,Uniforme Escolar,Escolar,Hospital Vida,16,342,89.9,Camaçari
+2027-05-21,Jaleco Hospitalar,Hospitalar,Empresa Gama,9,330,129.9,Ilhéus
+2027-05-22,Uniforme Escolar,Escolar,Indústria X,17,325,89.9,Camaçari
+2027-05-23,Jaleco Hospitalar,Hospitalar,Indústria Y,26,304,129.9,Ilhéus
+2027-05-24,Camisa Corporativa,Corporativo,Hospital Vida,49,102,99.9,Itabuna
+2027-05-25,Jaleco Hospitalar,Hospitalar,Colégio Alfa,11,293,129.9,Feira de Santana
+2027-05-26,Jaleco Hospitalar,Hospitalar,Colégio Delta,22,271,129.9,Lauro de Freitas
+2027-05-27,Uniforme Escolar,Escolar,Colégio Delta,35,290,89.9,Feira de Santana
+2027-05-28,Uniforme Escolar,Escolar,Hospital Saúde+,44,246,89.9,Salvador
+2027-05-29,Uniforme Escolar,Escolar,Empresa Beta,42,204,89.9,Vitória da Conquista
+2027-05-30,Macacão Industrial,Industrial,Indústria Y,27,137,149.9,Itabuna
+2027-05-31,Macacão Industrial,Industrial,Colégio Beta,37,100,149.9,Camaçari
+2027-06-01,Camisa Corporativa,Corporativo,Empresa Gama,27,75,99.9,Lauro de Freitas
+2027-06-02,Jaleco Hospitalar,Hospitalar,Colégio Beta,20,251,129.9,Vitória da Conquista
+2027-06-03,Jaleco Hospitalar,Hospitalar,Indústria Y,7,244,129.9,Ilhéus
+2027-06-04,Macacão Industrial,Industrial,Colégio Alfa,30,70,149.9,Itabuna
+2027-06-05,Jaleco Hospitalar,Hospitalar,Empresa Beta,26,218,129.9,Lauro de Freitas
+2027-06-06,Jaleco Hospitalar,Hospitalar,Indústria Y,26,192,129.9,Camaçari
+2027-06-07,Uniforme Escolar,Escolar,Colégio Beta,12,192,89.9,Feira de Santana
+2027-06-08,Uniforme Escolar,Escolar,Colégio Delta,17,175,89.9,Camaçari
+2027-06-09,Jaleco Hospitalar,Hospitalar,Hospital Vida,32,160,129.9,Jequié
+2027-06-10,Uniforme Escolar,Escolar,Indústria Y,28,147,89.9,Itabuna
+2027-06-11,Macacão Industrial,Industrial,Empresa Gama,43,27,149.9,Itabuna
+2027-06-12,Jaleco Hospitalar,Hospitalar,Colégio Alfa,44,116,129.9,Lauro de Freitas
+2027-06-13,Jaleco Hospitalar,Hospitalar,Indústria Y,21,95,129.9,Salvador
+2027-06-14,Macacão Industrial,Industrial,Colégio Delta,29,272,149.9,Feira de Santana
+2027-06-15,Uniforme Escolar,Escolar,Colégio Delta,6,141,89.9,Camaçari
+2027-06-16,Uniforme Escolar,Escolar,Colégio Beta,42,99,89.9,Ilhéus
+2027-06-17,Camisa Corporativa,Corporativo,Hospital Saúde+,11,64,99.9,Feira de Santana
+2027-06-18,Macacão Industrial,Industrial,Empresa Gama,15,257,149.9,Salvador
+2027-06-19,Uniforme Escolar,Escolar,Indústria Y,40,59,89.9,Camaçari
+2027-06-20,Macacão Industrial,Industrial,Hospital Vida,47,210,149.9,Lauro de Freitas
+2027-06-21,Uniforme Escolar,Escolar,Empresa Gama,14,45,89.9,Vitória da Conquista
+2027-06-22,Uniforme Escolar,Escolar,Indústria Y,30,15,89.9,Feira de Santana
+2027-06-23,Macacão Industrial,Industrial,Colégio Beta,6,204,149.9,Jequié
+2027-06-24,Uniforme Escolar,Escolar,Indústria X,24,347,89.9,Ilhéus
+2027-06-25,Camisa Corporativa,Corporativo,Empresa Beta,29,35,99.9,Itabuna
+2027-06-26,Uniforme Escolar,Escolar,Hospital Saúde+,45,302,89.9,Itabuna
+2027-06-27,Uniforme Escolar,Escolar,Indústria X,32,270,89.9,Lauro de Freitas
+2027-06-28,Macacão Industrial,Industrial,Colégio Beta,13,191,149.9,Feira de Santana
+2027-06-29,Uniforme Escolar,Escolar,Colégio Beta,47,223,89.9,Salvador
+2027-06-30,Camisa Corporativa,Corporativo,Empresa Gama,8,27,99.9,Ilhéus
+2027-07-01,Macacão Industrial,Industrial,Colégio Alfa,21,170,149.9,Vitória da Conquista
+2027-07-02,Macacão Industrial,Industrial,Hospital Saúde+,5,165,149.9,Jequié
+2027-07-03,Macacão Industrial,Industrial,Indústria Y,30,135,149.9,Itabuna
+2027-07-04,Camisa Corporativa,Corporativo,Empresa Beta,34,440,99.9,Salvador
+2027-07-05,Camisa Corporativa,Corporativo,Indústria X,5,435,99.9,Vitória da Conquista
+2027-07-06,Uniforme Escolar,Escolar,Empresa Gama,15,208,89.9,Lauro de Freitas
+2027-07-07,Macacão Industrial,Industrial,Hospital Saúde+,34,101,149.9,Vitória da Conquista
+2027-07-08,Jaleco Hospitalar,Hospitalar,Colégio Beta,40,55,129.9,Feira de Santana
+2027-07-09,Uniforme Escolar,Escolar,Empresa Beta,46,162,89.9,Vitória da Conquista
+2027-07-10,Uniforme Escolar,Escolar,Colégio Alfa,49,113,89.9,Vitória da Conquista
+2027-07-11,Jaleco Hospitalar,Hospitalar,Colégio Alfa,22,33,129.9,Camaçari
+2027-07-12,Camisa Corporativa,Corporativo,Colégio Beta,33,402,99.9,Ilhéus
+2027-07-13,Macacão Industrial,Industrial,Indústria X,26,75,149.9,Lauro de Freitas
+2027-07-14,Uniforme Escolar,Escolar,Colégio Beta,33,80,89.9,Lauro de Freitas
+2027-07-15,Macacão Industrial,Industrial,Colégio Beta,29,46,149.9,Camaçari
+2027-07-16,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,34,341,129.9,Vitória da Conquista
+2027-07-17,Camisa Corporativa,Corporativo,Colégio Beta,31,371,99.9,Salvador
+2027-07-18,Camisa Corporativa,Corporativo,Indústria Y,6,365,99.9,Ilhéus
+2027-07-19,Macacão Industrial,Industrial,Empresa Beta,41,5,149.9,Ilhéus
+2027-07-20,Jaleco Hospitalar,Hospitalar,Indústria Y,13,328,129.9,Camaçari
+2027-07-21,Uniforme Escolar,Escolar,Colégio Beta,11,69,89.9,Feira de Santana
+2027-07-22,Uniforme Escolar,Escolar,Indústria X,9,60,89.9,Salvador
+2027-07-23,Jaleco Hospitalar,Hospitalar,Hospital Vida,29,299,129.9,Jequié
+2027-07-24,Macacão Industrial,Industrial,Hospital Vida,25,368,149.9,Ilhéus
+2027-07-25,Macacão Industrial,Industrial,Hospital Saúde+,44,324,149.9,Ilhéus
+2027-07-26,Jaleco Hospitalar,Hospitalar,Colégio Delta,17,282,129.9,Salvador
+2027-07-27,Jaleco Hospitalar,Hospitalar,Empresa Beta,8,274,129.9,Ilhéus
+2027-07-28,Macacão Industrial,Industrial,Colégio Beta,24,300,149.9,Lauro de Freitas
+2027-07-29,Camisa Corporativa,Corporativo,Colégio Alfa,41,324,99.9,Vitória da Conquista
+2027-07-30,Macacão Industrial,Industrial,Empresa Beta,24,276,149.9,Vitória da Conquista
+2027-07-31,Uniforme Escolar,Escolar,Hospital Saúde+,8,52,89.9,Feira de Santana
+2027-08-01,Camisa Corporativa,Corporativo,Colégio Beta,28,296,99.9,Itabuna
+2027-08-02,Uniforme Escolar,Escolar,Indústria Y,31,21,89.9,Lauro de Freitas
+2027-08-03,Jaleco Hospitalar,Hospitalar,Empresa Gama,38,236,129.9,Salvador
+2027-08-04,Macacão Industrial,Industrial,Indústria X,45,231,149.9,Camaçari
+2027-08-05,Macacão Industrial,Industrial,Empresa Gama,32,199,149.9,Salvador
+2027-08-06,Macacão Industrial,Industrial,Empresa Gama,10,189,149.9,Lauro de Freitas
+2027-08-07,Uniforme Escolar,Escolar,Colégio Delta,16,5,89.9,Ilhéus
+2027-08-08,Macacão Industrial,Industrial,Colégio Alfa,6,183,149.9,Lauro de Freitas
+2027-08-09,Jaleco Hospitalar,Hospitalar,Colégio Alfa,8,228,129.9,Ilhéus
+2027-08-10,Macacão Industrial,Industrial,Empresa Gama,7,176,149.9,Salvador
+2027-08-11,Uniforme Escolar,Escolar,Indústria Y,47,345,89.9,Feira de Santana
+2027-08-12,Jaleco Hospitalar,Hospitalar,Indústria Y,16,212,129.9,Ilhéus
+2027-08-13,Uniforme Escolar,Escolar,Hospital Vida,39,306,89.9,Vitória da Conquista
+2027-08-14,Camisa Corporativa,Corporativo,Colégio Alfa,15,281,99.9,Salvador
+2027-08-15,Jaleco Hospitalar,Hospitalar,Colégio Delta,12,200,129.9,Vitória da Conquista
+2027-08-16,Macacão Industrial,Industrial,Hospital Vida,25,151,149.9,Itabuna
+2027-08-17,Uniforme Escolar,Escolar,Hospital Saúde+,20,286,89.9,Lauro de Freitas
+2027-08-18,Camisa Corporativa,Corporativo,Colégio Beta,9,272,99.9,Feira de Santana
+2027-08-19,Uniforme Escolar,Escolar,Indústria X,20,266,89.9,Salvador
+2027-08-20,Uniforme Escolar,Escolar,Hospital Saúde+,12,254,89.9,Vitória da Conquista
+2027-08-21,Jaleco Hospitalar,Hospitalar,Indústria Y,18,182,129.9,Vitória da Conquista
+2027-08-22,Uniforme Escolar,Escolar,Hospital Saúde+,35,219,89.9,Itabuna
+2027-08-23,Jaleco Hospitalar,Hospitalar,Empresa Beta,17,165,129.9,Lauro de Freitas
+2027-08-24,Macacão Industrial,Industrial,Colégio Delta,24,127,149.9,Ilhéus
+2027-08-25,Macacão Industrial,Industrial,Colégio Delta,36,91,149.9,Vitória da Conquista
+2027-08-26,Jaleco Hospitalar,Hospitalar,Hospital Vida,19,146,129.9,Ilhéus
+2027-08-27,Jaleco Hospitalar,Hospitalar,Indústria X,40,106,129.9,Ilhéus
+2027-08-28,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,31,75,129.9,Jequié
+2027-08-29,Jaleco Hospitalar,Hospitalar,Colégio Delta,24,51,129.9,Camaçari
+2027-08-30,Uniforme Escolar,Escolar,Empresa Gama,15,204,89.9,Lauro de Freitas
+2027-08-31,Camisa Corporativa,Corporativo,Hospital Vida,10,262,99.9,Ilhéus
+2027-09-01,Uniforme Escolar,Escolar,Indústria X,28,176,89.9,Itabuna
+2027-09-02,Jaleco Hospitalar,Hospitalar,Empresa Gama,22,29,129.9,Vitória da Conquista
+2027-09-03,Camisa Corporativa,Corporativo,Hospital Vida,10,252,99.9,Vitória da Conquista
+2027-09-04,Jaleco Hospitalar,Hospitalar,Colégio Alfa,7,22,129.9,Lauro de Freitas
+2027-09-05,Jaleco Hospitalar,Hospitalar,Colégio Delta,40,344,129.9,Feira de Santana
+2027-09-06,Jaleco Hospitalar,Hospitalar,Hospital Saúde+,18,326,129.9,Ilhéus
+2027-09-07,Jaleco Hospitalar,Hospitalar,Hospital Vida,34,292,129.9,Itabuna
+2027-09-08,Camisa Corporativa,Corporativo,Hospital Saúde+,16,236,99.9,Jequié
+2027-09-09,Camisa Corporativa,Corporativo,Hospital Saúde+,9,227,99.9,Jequié
+2027-09-10,Uniforme Escolar,Escolar,Hospital Saúde+,20,156,89.9,Feira de Santana
+2027-09-11,Macacão Industrial,Industrial,Hospital Saúde+,21,70,149.9,Lauro de Freitas
+2027-09-12,Jaleco Hospitalar,Hospitalar,Indústria Y,28,264,129.9,Itabuna
+2027-09-13,Uniforme Escolar,Escolar,Empresa Beta,7,149,89.9,Vitória da Conquista
+2027-09-14,Jaleco Hospitalar,Hospitalar,Hospital Vida,9,255,129.9,Feira de Santana
+2027-09-15,Uniforme Escolar,Escolar,Indústria Y,12,137,89.9,Jequié
+2027-09-16,Camisa Corporativa,Corporativo,Empresa Gama,41,186,99.9,Feira de Santana
+2027-09-17,Uniforme Escolar,Escolar,Colégio Alfa,48,89,89.9,Lauro de Freitas
+2027-09-18,Jaleco Hospitalar,Hospitalar,Colégio Beta,45,210,129.9,Vitória da Conquista
+2027-09-19,Camisa Corporativa,Corporativo,Colégio Delta,22,164,99.9,Vitória da Conquista
+2027-09-20,Macacão Industrial,Industrial,Indústria X,23,47,149.9,Jequié
+2027-09-21,Macacão Industrial,Industrial,Colégio Delta,9,38,149.9,Feira de Santana
+2027-09-22,Jaleco Hospitalar,Hospitalar,Empresa Gama,33,177,129.9,Camaçari
+2027-09-23,Camisa Corporativa,Corporativo,Colégio Beta,19,145,99.9,Feira de Santana
+2027-09-24,Uniforme Escolar,Escolar,Colégio Delta,9,80,89.9,Feira de Santana
+2027-09-25,Macacão Industrial,Industrial,Indústria Y,49,226,149.9,Lauro de Freitas
+2027-09-26,Uniforme Escolar,Escolar,Colégio Beta,42,38,89.9,Salvador
+2027-09-27,Jaleco Hospitalar,Hospitalar,Colégio Alfa,39,138,129.9,Camaçari
