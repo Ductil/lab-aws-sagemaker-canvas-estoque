@@ -54,7 +54,11 @@ Impacto das variáveis no modelo:
 - Localização – 13.2%
 - Produto – 10.9%
   
-📌 Insight: A sazonalidade (datas) e o nível de estoque são os maiores influenciadores da demanda. Localização e tipo de produto também têm relevância significativa.
+📌 *Insight:* A variável **Data** teve o maior impacto, indicando forte influência da sazonalidade nas vendas. O **Estoque Atual** também é um fator relevante, sugerindo que a disponibilidade afeta diretamente a demanda.  
+
+#### 📷 Visualização do modelo no Canvas:
+
+![Resultados do Canvas](reports/model_results.png)
 
 4. Prever
    
